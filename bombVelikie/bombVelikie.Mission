@@ -6,7 +6,7 @@ Options
   LCDesc = 1;
   LCAuthor = 2;
   PlayerConfig = "";
-  MultiplayerPlaneConfig = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
+  MultiplayerPlaneConfig = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
   MultiplayerPlaneConfig = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
   Time = 7:0:0;
   Date = 20.11.1942;
@@ -98,9 +98,9 @@ Group
     Name = "Block";
     Index = 6;
     LinkTrId = 7;
-    XPos = 53283.051;
-    YPos = 62.659;
-    ZPos = 64633.891;
+    XPos = 53283.317;
+    YPos = 74.708;
+    ZPos = 64633.786;
     XOri = 0.00;
     YOri = 175.41;
     ZOri = 0.00;
@@ -9398,9 +9398,9 @@ Group
     Desc = "";
     Targets = [];
     Objects = [];
-    XPos = 53283.051;
-    YPos = 62.859;
-    ZPos = 64633.891;
+    XPos = 53283.317;
+    YPos = 74.908;
+    ZPos = 64633.786;
     XOri = 0.00;
     YOri = 0.00;
     ZOri = 0.00;
@@ -71006,9 +71006,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71102,9 +71104,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71258,9 +71262,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71396,9 +71402,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71534,9 +71542,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71630,9 +71640,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71792,9 +71804,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -71942,9 +71956,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72038,9 +72054,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72206,9 +72224,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72362,9 +72382,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72464,9 +72486,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72632,9 +72656,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72758,9 +72784,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -72920,9 +72948,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -73088,9 +73118,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -73220,9 +73252,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -73346,9 +73380,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -73496,9 +73532,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -73646,9 +73684,11 @@ Group
     ReturnPlanes = 0;
     Hydrodrome = 0;
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 1000;
@@ -73680,7 +73720,7 @@ Group
 MCU_TR_CameraOperator
 {
   Index = 3426;
-  Name = "Translator Camera Operator";
+  Name = "camera";
   Desc = "";
   Targets = [];
   Objects = [];
@@ -73705,7 +73745,7 @@ MCU_TR_CameraOperator
 MCU_TR_CameraOperator
 {
   Index = 3427;
-  Name = "Translator Camera Operator";
+  Name = "camera";
   Desc = "";
   Targets = [];
   Objects = [];
@@ -73730,7 +73770,7 @@ MCU_TR_CameraOperator
 MCU_TR_CameraOperator
 {
   Index = 3428;
-  Name = "Translator Camera Operator";
+  Name = "camera";
   Desc = "";
   Targets = [];
   Objects = [];
@@ -73886,9 +73926,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -73946,9 +73988,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74006,9 +74050,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74088,9 +74134,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74233,9 +74281,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74315,9 +74365,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74495,9 +74547,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74555,9 +74609,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74615,9 +74671,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74675,9 +74733,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74735,9 +74795,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -74771,663 +74833,2235 @@ Group
   Name = "joueurs";
   Index = 3483;
   Desc = "";
-  Plane
+  MCU_TR_CameraOperator
   {
-    Name = "pe2-1";
     Index = 3484;
-    LinkTrId = 3485;
-    XPos = 12606.963;
-    YPos = 143.546;
-    ZPos = 11959.573;
-    XOri = 0.00;
-    YOri = 327.22;
-    ZOri = 12.50;
-    Script = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
-    Model = "graphics\planes\pe2s87\pe2s87.mgm";
-    Country = 101;
+    Name = "Translator Camera Operator";
     Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 0;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 3;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Targets = [];
+    Objects = [];
+    XPos = 12448.028;
+    YPos = 200.000;
+    ZPos = 12065.486;
+    XOri = 0.00;
+    YOri = 325.92;
+    ZOri = 0.00;
+    Enabled = 1;
+    Speed = 0;
+    FOV = 90;
+    FirstId = -1;
+    SecondId = -1;
+    LockView = 0;
+    CameraType = 0;
+    Config = "";
   }
   
 
-  MCU_TR_Entity
+  Group
   {
+    Name = "yak1-coop-clear";
     Index = 3485;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [];
-    Objects = [];
-    XPos = 12606.963;
-    YPos = 143.746;
-    ZPos = 11959.573;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3484;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3486;
+      LinkTrId = 3487;
+      XPos = 12521.777;
+      YPos = 142.706;
+      ZPos = 11908.784;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3487;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12521.777;
+      YPos = 142.906;
+      ZPos = 11908.784;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3486;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3489;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3490;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3491];
+      Objects = [];
+      XPos = 12522.115;
+      YPos = 141.446;
+      ZPos = 11895.891;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3491;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3493];
+      Objects = [];
+      XPos = 12512.186;
+      YPos = 141.446;
+      ZPos = 11895.849;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3493;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3487];
+      XPos = 12504.079;
+      YPos = 141.446;
+      ZPos = 11896.041;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3489;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3491];
+      Objects = [];
+      XPos = 12512.029;
+      YPos = 141.446;
+      ZPos = 11891.389;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "Yacc 1";
-    Index = 3487;
-    LinkTrId = 3488;
-    XPos = 12524.813;
-    YPos = 142.706;
-    ZPos = 11916.202;
-    XOri = 0.00;
-    YOri = 321.49;
-    ZOri = 12.00;
-    Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
-    Model = "graphics\planes\yak1s69\yak1s69.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 0;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "pe2-coop-clear";
+    Index = 3551;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 3552;
+      LinkTrId = 3553;
+      XPos = 12555.114;
+      YPos = 143.546;
+      ZPos = 11958.838;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3553;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12555.114;
+      YPos = 143.746;
+      ZPos = 11958.838;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3552;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3555;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3556;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3557];
+      Objects = [];
+      XPos = 12555.451;
+      YPos = 141.446;
+      ZPos = 11945.945;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3557;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3559];
+      Objects = [];
+      XPos = 12545.523;
+      YPos = 141.446;
+      ZPos = 11945.902;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3559;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3553];
+      XPos = 12537.416;
+      YPos = 141.446;
+      ZPos = 11946.095;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3555;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3557];
+      Objects = [];
+      XPos = 12545.365;
+      YPos = 141.446;
+      ZPos = 11941.443;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3488;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [];
-    Objects = [];
-    XPos = 12524.813;
-    YPos = 142.906;
-    ZPos = 11916.202;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3487;
+    Name = "yak1-coop-clear";
+    Index = 3886;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3887;
+      LinkTrId = 3888;
+      XPos = 12537.717;
+      YPos = 142.706;
+      ZPos = 11933.681;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3888;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12537.717;
+      YPos = 142.906;
+      ZPos = 11933.681;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3887;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3890;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3891;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3892];
+      Objects = [];
+      XPos = 12538.055;
+      YPos = 141.446;
+      ZPos = 11920.788;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3892;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3894];
+      Objects = [];
+      XPos = 12528.126;
+      YPos = 141.446;
+      ZPos = 11920.746;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3894;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3888];
+      XPos = 12520.019;
+      YPos = 141.446;
+      ZPos = 11920.938;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3890;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3892];
+      Objects = [];
+      XPos = 12527.969;
+      YPos = 141.446;
+      ZPos = 11916.286;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "pe2-1";
-    Index = 3490;
-    LinkTrId = 3491;
-    XPos = 12566.647;
-    YPos = 143.546;
-    ZPos = 11954.735;
-    XOri = 0.00;
-    YOri = 327.22;
-    ZOri = 12.50;
-    Script = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
-    Model = "graphics\planes\pe2s87\pe2s87.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 1;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 3;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "yak1-coop-clear";
+    Index = 3897;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3898;
+      LinkTrId = 3899;
+      XPos = 12506.977;
+      YPos = 142.706;
+      ZPos = 11919.921;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3899;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12506.977;
+      YPos = 142.906;
+      ZPos = 11919.921;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3898;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3901;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3902;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3903];
+      Objects = [];
+      XPos = 12507.315;
+      YPos = 141.446;
+      ZPos = 11907.028;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3903;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3905];
+      Objects = [];
+      XPos = 12497.386;
+      YPos = 141.446;
+      ZPos = 11906.986;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3905;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3899];
+      XPos = 12489.279;
+      YPos = 141.446;
+      ZPos = 11907.178;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3901;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3903];
+      Objects = [];
+      XPos = 12497.229;
+      YPos = 141.446;
+      ZPos = 11902.526;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3491;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3485];
-    Objects = [];
-    XPos = 12566.647;
-    YPos = 143.746;
-    ZPos = 11954.735;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3490;
+    Name = "yak1-coop-clear";
+    Index = 3908;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3909;
+      LinkTrId = 3910;
+      XPos = 12523.664;
+      YPos = 142.706;
+      ZPos = 11941.001;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3910;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12523.664;
+      YPos = 142.906;
+      ZPos = 11941.001;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3909;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3912;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3913;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3914];
+      Objects = [];
+      XPos = 12524.002;
+      YPos = 141.446;
+      ZPos = 11928.108;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3914;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3916];
+      Objects = [];
+      XPos = 12514.073;
+      YPos = 141.446;
+      ZPos = 11928.066;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3916;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3910];
+      XPos = 12505.966;
+      YPos = 141.446;
+      ZPos = 11928.258;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3912;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3914];
+      Objects = [];
+      XPos = 12513.916;
+      YPos = 141.446;
+      ZPos = 11923.606;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "pe2-1";
-    Index = 3493;
-    LinkTrId = 3494;
-    XPos = 12562.324;
-    YPos = 143.546;
-    ZPos = 11994.129;
-    XOri = 0.00;
-    YOri = 327.22;
-    ZOri = 12.50;
-    Script = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
-    Model = "graphics\planes\pe2s87\pe2s87.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 2;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 3;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "yak1-coop-clear";
+    Index = 3919;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3920;
+      LinkTrId = 3921;
+      XPos = 12491.753;
+      YPos = 142.706;
+      ZPos = 11929.583;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3921;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12491.753;
+      YPos = 142.906;
+      ZPos = 11929.583;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3920;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3923;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3924;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3925];
+      Objects = [];
+      XPos = 12492.091;
+      YPos = 141.446;
+      ZPos = 11916.690;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3925;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3927];
+      Objects = [];
+      XPos = 12482.162;
+      YPos = 141.446;
+      ZPos = 11916.648;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3927;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3921];
+      XPos = 12474.055;
+      YPos = 141.446;
+      ZPos = 11916.840;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3923;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3925];
+      Objects = [];
+      XPos = 12482.005;
+      YPos = 141.446;
+      ZPos = 11912.188;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3494;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3485];
-    Objects = [];
-    XPos = 12562.324;
-    YPos = 143.746;
-    ZPos = 11994.129;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3493;
+    Name = "yak1-coop-clear";
+    Index = 3930;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3931;
+      LinkTrId = 3932;
+      XPos = 12508.148;
+      YPos = 142.706;
+      ZPos = 11951.833;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3932;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12508.148;
+      YPos = 142.906;
+      ZPos = 11951.833;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3931;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3934;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3935;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3936];
+      Objects = [];
+      XPos = 12508.486;
+      YPos = 141.446;
+      ZPos = 11938.940;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3936;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3938];
+      Objects = [];
+      XPos = 12498.557;
+      YPos = 141.446;
+      ZPos = 11938.898;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3938;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3932];
+      XPos = 12490.450;
+      YPos = 141.446;
+      ZPos = 11939.090;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3934;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3936];
+      Objects = [];
+      XPos = 12498.400;
+      YPos = 141.446;
+      ZPos = 11934.438;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "pe2-1";
-    Index = 3496;
-    LinkTrId = 3497;
-    XPos = 12528.171;
-    YPos = 143.546;
-    ZPos = 11983.216;
-    XOri = 0.00;
-    YOri = 327.22;
-    ZOri = 12.50;
-    Script = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
-    Model = "graphics\planes\pe2s87\pe2s87.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 3;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 3;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "yak1-coop-clear";
+    Index = 3941;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3942;
+      LinkTrId = 3943;
+      XPos = 12476.529;
+      YPos = 142.706;
+      ZPos = 11938.658;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3943;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12476.529;
+      YPos = 142.906;
+      ZPos = 11938.658;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3942;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3945;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3946;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3947];
+      Objects = [];
+      XPos = 12476.867;
+      YPos = 141.446;
+      ZPos = 11925.765;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3947;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3949];
+      Objects = [];
+      XPos = 12466.938;
+      YPos = 141.446;
+      ZPos = 11925.723;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3949;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3943];
+      XPos = 12458.831;
+      YPos = 141.446;
+      ZPos = 11925.915;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3945;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3947];
+      Objects = [];
+      XPos = 12466.781;
+      YPos = 141.446;
+      ZPos = 11921.263;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3497;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3485];
-    Objects = [];
-    XPos = 12528.171;
-    YPos = 143.746;
-    ZPos = 11983.216;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3496;
+    Name = "yak1-coop-clear";
+    Index = 3952;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Yak 1";
+      Index = 3953;
+      LinkTrId = 3954;
+      XPos = 12491.460;
+      YPos = 142.706;
+      ZPos = 11959.738;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.00;
+      Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
+      Model = "graphics\planes\yak1s69\yak1s69.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3954;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12491.460;
+      YPos = 142.906;
+      ZPos = 11959.738;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3953;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3956;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3957;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3958];
+      Objects = [];
+      XPos = 12491.798;
+      YPos = 141.446;
+      ZPos = 11946.845;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3958;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3960];
+      Objects = [];
+      XPos = 12481.869;
+      YPos = 141.446;
+      ZPos = 11946.803;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3960;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3954];
+      XPos = 12473.762;
+      YPos = 141.446;
+      ZPos = 11946.995;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3956;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3958];
+      Objects = [];
+      XPos = 12481.712;
+      YPos = 141.446;
+      ZPos = 11942.343;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "pe2-1";
-    Index = 3499;
-    LinkTrId = 3500;
-    XPos = 12516.211;
-    YPos = 143.546;
-    ZPos = 12029.995;
-    XOri = 0.00;
-    YOri = 327.22;
-    ZOri = 12.50;
-    Script = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
-    Model = "graphics\planes\pe2s87\pe2s87.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 4;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 3;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "pe2-coop-clear";
+    Index = 3963;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 3964;
+      LinkTrId = 3965;
+      XPos = 12572.557;
+      YPos = 143.546;
+      ZPos = 11985.501;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3965;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12572.557;
+      YPos = 143.746;
+      ZPos = 11985.501;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3964;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3967;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3968;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3969];
+      Objects = [];
+      XPos = 12572.894;
+      YPos = 141.446;
+      ZPos = 11972.608;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3969;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3971];
+      Objects = [];
+      XPos = 12562.966;
+      YPos = 141.446;
+      ZPos = 11972.565;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3971;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3965];
+      XPos = 12554.859;
+      YPos = 141.446;
+      ZPos = 11972.758;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3967;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3969];
+      Objects = [];
+      XPos = 12562.808;
+      YPos = 141.446;
+      ZPos = 11968.106;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3500;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3485];
-    Objects = [];
-    XPos = 12516.211;
-    YPos = 143.746;
-    ZPos = 12029.995;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3499;
+    Name = "pe2-coop-clear";
+    Index = 3974;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 3975;
+      LinkTrId = 3976;
+      XPos = 12539.474;
+      YPos = 143.546;
+      ZPos = 11970.570;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3976;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12539.474;
+      YPos = 143.746;
+      ZPos = 11970.570;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3975;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3978;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3979;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3980];
+      Objects = [];
+      XPos = 12539.811;
+      YPos = 141.446;
+      ZPos = 11957.677;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3980;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3982];
+      Objects = [];
+      XPos = 12529.883;
+      YPos = 141.446;
+      ZPos = 11957.634;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3982;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3976];
+      XPos = 12521.776;
+      YPos = 141.446;
+      ZPos = 11957.827;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3978;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3980];
+      Objects = [];
+      XPos = 12529.725;
+      YPos = 141.446;
+      ZPos = 11953.175;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "pe2-1";
-    Index = 3502;
-    LinkTrId = 3503;
-    XPos = 12488.397;
-    YPos = 143.546;
-    ZPos = 12013.580;
-    XOri = 0.00;
-    YOri = 327.22;
-    ZOri = 12.50;
-    Script = "LuaScripts\WorldObjects\Planes\pe2s87.txt";
-    Model = "graphics\planes\pe2s87\pe2s87.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 5;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 3;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "pe2-coop-clear";
+    Index = 3985;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 3986;
+      LinkTrId = 3987;
+      XPos = 12555.283;
+      YPos = 143.546;
+      ZPos = 11995.748;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3987;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12555.283;
+      YPos = 143.746;
+      ZPos = 11995.748;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3986;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 3989;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 3990;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [3991];
+      Objects = [];
+      XPos = 12555.620;
+      YPos = 141.446;
+      ZPos = 11982.855;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 3991;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [3993];
+      Objects = [];
+      XPos = 12545.692;
+      YPos = 141.446;
+      ZPos = 11982.812;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 3993;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3987];
+      XPos = 12537.585;
+      YPos = 141.446;
+      ZPos = 11983.005;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 3989;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [3991];
+      Objects = [];
+      XPos = 12545.534;
+      YPos = 141.446;
+      ZPos = 11978.353;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3503;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3485];
-    Objects = [];
-    XPos = 12488.397;
-    YPos = 143.746;
-    ZPos = 12013.580;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3502;
+    Name = "pe2-coop-clear";
+    Index = 3996;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 3997;
+      LinkTrId = 3998;
+      XPos = 12522.201;
+      YPos = 143.546;
+      ZPos = 11981.695;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 3998;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12522.201;
+      YPos = 143.746;
+      ZPos = 11981.695;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 3997;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 4000;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 4001;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [4002];
+      Objects = [];
+      XPos = 12522.538;
+      YPos = 141.446;
+      ZPos = 11968.802;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 4002;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [4004];
+      Objects = [];
+      XPos = 12512.610;
+      YPos = 141.446;
+      ZPos = 11968.759;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 4004;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [3998];
+      XPos = 12504.503;
+      YPos = 141.446;
+      ZPos = 11968.952;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 4000;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [4002];
+      Objects = [];
+      XPos = 12512.452;
+      YPos = 141.446;
+      ZPos = 11964.300;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "Yacc 1";
-    Index = 3505;
-    LinkTrId = 3506;
-    XPos = 12521.080;
-    YPos = 141.446;
-    ZPos = 11937.987;
-    XOri = 0.00;
-    YOri = 321.49;
-    ZOri = 0.00;
-    Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
-    Model = "graphics\planes\yak1s69\yak1s69.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 1;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
+    Name = "pe2-coop-clear";
+    Index = 4007;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 4008;
+      LinkTrId = 4009;
+      XPos = 12539.474;
+      YPos = 143.546;
+      ZPos = 12008.337;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 4009;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12539.474;
+      YPos = 143.746;
+      ZPos = 12008.337;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 4008;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 4011;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 4012;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [4013];
+      Objects = [];
+      XPos = 12539.811;
+      YPos = 141.446;
+      ZPos = 11995.444;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 4013;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [4015];
+      Objects = [];
+      XPos = 12529.883;
+      YPos = 141.446;
+      ZPos = 11995.401;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 4015;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [4009];
+      XPos = 12521.776;
+      YPos = 141.446;
+      ZPos = 11995.594;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 4011;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [4013];
+      Objects = [];
+      XPos = 12529.725;
+      YPos = 141.446;
+      ZPos = 11990.942;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  MCU_TR_Entity
+  Group
   {
-    Index = 3506;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3488];
-    Objects = [];
-    XPos = 12521.080;
-    YPos = 141.646;
-    ZPos = 11937.987;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3505;
+    Name = "pe2-coop-clear";
+    Index = 4018;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 4019;
+      LinkTrId = 4020;
+      XPos = 12506.392;
+      YPos = 143.546;
+      ZPos = 11994.869;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 4020;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12506.392;
+      YPos = 143.746;
+      ZPos = 11994.869;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 4019;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 4022;
+        }
+      }
+    }
+    
+
+    MCU_TR_MissionBegin
+    {
+      Index = 4023;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [4024];
+      Objects = [];
+      XPos = 12506.729;
+      YPos = 141.446;
+      ZPos = 11981.976;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 4024;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [4026];
+      Objects = [];
+      XPos = 12496.801;
+      YPos = 141.446;
+      ZPos = 11981.933;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
+
+    MCU_Delete
+    {
+      Index = 4026;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [4020];
+      XPos = 12488.694;
+      YPos = 141.446;
+      ZPos = 11982.126;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
+    MCU_Deactivate
+    {
+      Index = 4022;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [4024];
+      Objects = [];
+      XPos = 12496.643;
+      YPos = 141.446;
+      ZPos = 11977.474;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
+
   }
   
 
-  Plane
+  Group
   {
-    Name = "Yacc 1";
-    Index = 3508;
-    LinkTrId = 3509;
-    XPos = 12496.132;
-    YPos = 141.446;
-    ZPos = 11939.161;
-    XOri = 0.00;
-    YOri = 321.49;
-    ZOri = 0.00;
-    Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
-    Model = "graphics\planes\yak1s69\yak1s69.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 2;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
-  }
-  
+    Name = "pe2-coop-clear";
+    Index = 4029;
+    Desc = "delete if did not take off";
+    Plane
+    {
+      Name = "Pe2-player";
+      Index = 4030;
+      LinkTrId = 4031;
+      XPos = 12524.543;
+      YPos = 143.546;
+      ZPos = 12019.754;
+      XOri = 0.00;
+      YOri = 321.49;
+      ZOri = 12.50;
+      Script = "LuaScripts\WorldObjects\Planes\pe2s35.txt";
+      Model = "graphics\planes\pe2s35\pe2s35.mgm";
+      Country = 101;
+      Desc = "";
+      Skin = "";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 1;
+    }
+    
 
-  MCU_TR_Entity
-  {
-    Index = 3509;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3488];
-    Objects = [];
-    XPos = 12496.132;
-    YPos = 141.646;
-    ZPos = 11939.161;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3508;
-  }
-  
+    MCU_TR_Entity
+    {
+      Index = 4031;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 12524.543;
+      YPos = 143.746;
+      ZPos = 12019.754;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 4030;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 4033;
+        }
+      }
+    }
+    
 
-  Plane
-  {
-    Name = "Yacc 1";
-    Index = 3511;
-    LinkTrId = 3512;
-    XPos = 12492.712;
-    YPos = 141.446;
-    ZPos = 11963.424;
-    XOri = 0.00;
-    YOri = 321.49;
-    ZOri = 0.00;
-    Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
-    Model = "graphics\planes\yak1s69\yak1s69.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 3;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
-  }
-  
+    MCU_TR_MissionBegin
+    {
+      Index = 4034;
+      Name = "BEGIN-player";
+      Desc = "";
+      Targets = [4035];
+      Objects = [];
+      XPos = 12524.880;
+      YPos = 141.446;
+      ZPos = 12006.861;
+      XOri = 0.00;
+      YOri = 359.24;
+      ZOri = 0.00;
+      Enabled = 1;
+    }
+    
 
-  MCU_TR_Entity
-  {
-    Index = 3512;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3488];
-    Objects = [];
-    XPos = 12492.712;
-    YPos = 141.646;
-    ZPos = 11963.424;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3511;
-  }
-  
+    MCU_Timer
+    {
+      Index = 4035;
+      Name = "take off timeout";
+      Desc = "";
+      Targets = [4037];
+      Objects = [];
+      XPos = 12514.952;
+      YPos = 141.446;
+      ZPos = 12006.818;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+      Time = 900;
+      Random = 100;
+    }
+    
 
-  Plane
-  {
-    Name = "Yacc 1";
-    Index = 3514;
-    LinkTrId = 3515;
-    XPos = 12467.575;
-    YPos = 141.446;
-    ZPos = 11959.778;
-    XOri = 0.00;
-    YOri = 321.49;
-    ZOri = 0.00;
-    Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
-    Model = "graphics\planes\yak1s69\yak1s69.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 4;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
-  }
-  
+    MCU_Delete
+    {
+      Index = 4037;
+      Name = "remove-plane";
+      Desc = "";
+      Targets = [];
+      Objects = [4031];
+      XPos = 12506.845;
+      YPos = 141.446;
+      ZPos = 12007.011;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
 
-  MCU_TR_Entity
-  {
-    Index = 3515;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3488];
-    Objects = [];
-    XPos = 12467.575;
-    YPos = 141.646;
-    ZPos = 11959.778;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3514;
-  }
-  
+    MCU_Deactivate
+    {
+      Index = 4033;
+      Name = "deactivate delete";
+      Desc = "";
+      Targets = [4035];
+      Objects = [];
+      XPos = 12514.794;
+      YPos = 141.446;
+      ZPos = 12002.359;
+      XOri = 0.00;
+      YOri = 0.00;
+      ZOri = 0.00;
+    }
+    
 
-  Plane
-  {
-    Name = "Yacc 1";
-    Index = 3517;
-    LinkTrId = 3518;
-    XPos = 12467.181;
-    YPos = 141.446;
-    ZPos = 11981.702;
-    XOri = 0.00;
-    YOri = 321.49;
-    ZOri = 0.00;
-    Script = "LuaScripts\WorldObjects\Planes\yak1s69.txt";
-    Model = "graphics\planes\yak1s69\yak1s69.mgm";
-    Country = 101;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 5;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 1;
-  }
-  
-
-  MCU_TR_Entity
-  {
-    Index = 3518;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [3488];
-    Objects = [];
-    XPos = 12467.181;
-    YPos = 141.646;
-    ZPos = 11981.702;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 3517;
   }
   
 
@@ -75438,11 +77072,11 @@ Group
 Group
 {
   Name = "chasse1";
-  Index = 3520;
+  Index = 3705;
   Desc = "";
   MCU_TR_ComplexTrigger
   {
-    Index = 3521;
+    Index = 3706;
     Name = "Translator Complex Trigger";
     Desc = "";
     Targets = [];
@@ -75488,7 +77122,7 @@ Group
       OnEvent
       {
         Type = 58;
-        TarId = 3522;
+        TarId = 3707;
       }
     }
   }
@@ -75497,8 +77131,8 @@ Group
   Plane
   {
     Name = "Plane";
-    Index = 3523;
-    LinkTrId = 3524;
+    Index = 3708;
+    LinkTrId = 3709;
     XPos = 47659.558;
     YPos = 1500.000;
     ZPos = 55372.193;
@@ -75533,7 +77167,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3524;
+    Index = 3709;
     Name = "Plane entity";
     Desc = "";
     Targets = [];
@@ -75545,17 +77179,17 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 3523;
+    MisObjID = 3708;
   }
   
 
   MCU_Activate
   {
-    Index = 3526;
+    Index = 3711;
     Name = "Trigger Activate";
     Desc = "";
     Targets = [];
-    Objects = [3524];
+    Objects = [3709];
     XPos = 47767.780;
     YPos = 122.958;
     ZPos = 53981.148;
@@ -75567,10 +77201,10 @@ Group
 
   MCU_Timer
   {
-    Index = 3522;
+    Index = 3707;
     Name = "trigger chasse";
     Desc = "";
-    Targets = [3526,3528];
+    Targets = [3711,3713];
     Objects = [];
     XPos = 47797.116;
     YPos = 100.620;
@@ -75585,10 +77219,10 @@ Group
 
   MCU_Timer
   {
-    Index = 3528;
+    Index = 3713;
     Name = "2s";
     Desc = "";
-    Targets = [3530];
+    Targets = [3715];
     Objects = [];
     XPos = 46744.428;
     YPos = 117.657;
@@ -75603,11 +77237,11 @@ Group
 
   MCU_CMD_AttackArea
   {
-    Index = 3530;
+    Index = 3715;
     Name = "command AttackArea";
     Desc = "";
     Targets = [];
-    Objects = [3524];
+    Objects = [3709];
     XPos = 45952.370;
     YPos = 3000.000;
     ZPos = 53945.457;
@@ -75626,8 +77260,8 @@ Group
   Plane
   {
     Name = "Plane";
-    Index = 3532;
-    LinkTrId = 3533;
+    Index = 3717;
+    LinkTrId = 3718;
     XPos = 47739.520;
     YPos = 1000.000;
     ZPos = 55841.279;
@@ -75662,10 +77296,10 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3533;
+    Index = 3718;
     Name = "Plane entity";
     Desc = "";
-    Targets = [3524];
+    Targets = [3709];
     Objects = [];
     XPos = 47739.520;
     YPos = 1000.200;
@@ -75674,15 +77308,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 3532;
+    MisObjID = 3717;
   }
   
 
   Plane
   {
     Name = "Plane";
-    Index = 3535;
-    LinkTrId = 3536;
+    Index = 3720;
+    LinkTrId = 3721;
     XPos = 48053.722;
     YPos = 1000.000;
     ZPos = 55688.719;
@@ -75717,10 +77351,10 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3536;
+    Index = 3721;
     Name = "Plane entity";
     Desc = "";
-    Targets = [3524];
+    Targets = [3709];
     Objects = [];
     XPos = 48053.722;
     YPos = 1000.200;
@@ -75729,7 +77363,7 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 3535;
+    MisObjID = 3720;
   }
   
 
@@ -75740,11 +77374,11 @@ Group
 Group
 {
   Name = "chasse2";
-  Index = 3538;
+  Index = 3723;
   Desc = "";
   MCU_TR_ComplexTrigger
   {
-    Index = 3539;
+    Index = 3724;
     Name = "Translator Complex Trigger";
     Desc = "";
     Targets = [];
@@ -75790,7 +77424,7 @@ Group
       OnEvent
       {
         Type = 58;
-        TarId = 3540;
+        TarId = 3725;
       }
     }
   }
@@ -75799,8 +77433,8 @@ Group
   Plane
   {
     Name = "Plane";
-    Index = 3541;
-    LinkTrId = 3542;
+    Index = 3726;
+    LinkTrId = 3727;
     XPos = 49908.887;
     YPos = 7500.000;
     ZPos = 76318.851;
@@ -75835,7 +77469,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3542;
+    Index = 3727;
     Name = "Plane entity";
     Desc = "";
     Targets = [];
@@ -75847,17 +77481,17 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 3541;
+    MisObjID = 3726;
   }
   
 
   MCU_Activate
   {
-    Index = 3544;
+    Index = 3729;
     Name = "Trigger Activate";
     Desc = "";
     Targets = [];
-    Objects = [3542];
+    Objects = [3727];
     XPos = 50017.109;
     YPos = 122.958;
     ZPos = 74927.806;
@@ -75869,10 +77503,10 @@ Group
 
   MCU_Timer
   {
-    Index = 3540;
+    Index = 3725;
     Name = "trigger chasse";
     Desc = "";
-    Targets = [3544,3546];
+    Targets = [3729,3731];
     Objects = [];
     XPos = 50046.445;
     YPos = 100.620;
@@ -75887,10 +77521,10 @@ Group
 
   MCU_Timer
   {
-    Index = 3546;
+    Index = 3731;
     Name = "2s";
     Desc = "";
-    Targets = [3548];
+    Targets = [3733];
     Objects = [];
     XPos = 48993.756;
     YPos = 117.657;
@@ -75905,11 +77539,11 @@ Group
 
   MCU_CMD_AttackArea
   {
-    Index = 3548;
+    Index = 3733;
     Name = "command AttackArea";
     Desc = "";
     Targets = [];
-    Objects = [3542];
+    Objects = [3727];
     XPos = 48201.698;
     YPos = 3000.000;
     ZPos = 74892.115;
@@ -75928,8 +77562,8 @@ Group
   Plane
   {
     Name = "Plane";
-    Index = 3550;
-    LinkTrId = 3551;
+    Index = 3735;
+    LinkTrId = 3736;
     XPos = 48418.840;
     YPos = 7500.000;
     ZPos = 77841.880;
@@ -75964,10 +77598,10 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3551;
+    Index = 3736;
     Name = "Plane entity";
     Desc = "";
-    Targets = [3542];
+    Targets = [3727];
     Objects = [];
     XPos = 48418.840;
     YPos = 7500.200;
@@ -75976,15 +77610,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 3550;
+    MisObjID = 3735;
   }
   
 
   Plane
   {
     Name = "Plane";
-    Index = 3553;
-    LinkTrId = 3554;
+    Index = 3738;
+    LinkTrId = 3739;
     XPos = 50510.460;
     YPos = 7500.000;
     ZPos = 77582.588;
@@ -76019,10 +77653,10 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3554;
+    Index = 3739;
     Name = "Plane entity";
     Desc = "";
-    Targets = [3542];
+    Targets = [3727];
     Objects = [];
     XPos = 50510.460;
     YPos = 7500.200;
@@ -76031,7 +77665,7 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 3553;
+    MisObjID = 3738;
   }
   
 
@@ -76042,12 +77676,12 @@ Group
 Group
 {
   Name = "nav joueurs";
-  Index = 3556;
+  Index = 3741;
   Desc = "";
   MCU_Icon
   {
-    Index = 3557;
-    Targets = [3558];
+    Index = 3742;
+    Targets = [3743];
     Objects = [];
     XPos = 15188.035;
     YPos = 130.321;
@@ -76069,8 +77703,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3558;
-    Targets = [3560];
+    Index = 3743;
+    Targets = [3745];
     Objects = [];
     XPos = 19274.284;
     YPos = 1000.000;
@@ -76092,8 +77726,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3560;
-    Targets = [3562];
+    Index = 3745;
+    Targets = [3747];
     Objects = [];
     XPos = 21691.502;
     YPos = 1000.000;
@@ -76115,8 +77749,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3562;
-    Targets = [3564];
+    Index = 3747;
+    Targets = [3749];
     Objects = [];
     XPos = 11417.858;
     YPos = 1000.000;
@@ -76138,8 +77772,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3564;
-    Targets = [3566];
+    Index = 3749;
+    Targets = [3751];
     Objects = [];
     XPos = 19677.153;
     YPos = 1000.000;
@@ -76161,8 +77795,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3566;
-    Targets = [3568];
+    Index = 3751;
+    Targets = [3753];
     Objects = [];
     XPos = 52792.097;
     YPos = 300.000;
@@ -76184,8 +77818,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3568;
-    Targets = [3570];
+    Index = 3753;
+    Targets = [3755];
     Objects = [];
     XPos = 47216.671;
     YPos = 600.000;
@@ -76207,8 +77841,8 @@ Group
 
   MCU_Icon
   {
-    Index = 3570;
-    Targets = [3572];
+    Index = 3755;
+    Targets = [3757];
     Objects = [];
     XPos = 24415.373;
     YPos = 600.000;
@@ -76230,7 +77864,7 @@ Group
 
   MCU_Icon
   {
-    Index = 3572;
+    Index = 3757;
     Targets = [];
     Objects = [];
     XPos = 12738.710;
@@ -76251,6 +77885,182 @@ Group
   }
   
 
+  MCU_Icon
+  {
+    Index = 4040;
+    Targets = [];
+    Objects = [];
+    XPos = 12376.579;
+    YPos = 141.446;
+    ZPos = 12089.527;
+    XOri = 0.00;
+    YOri = 0.00;
+    ZOri = 0.00;
+    Enabled = 1;
+    LCName = 29;
+    LCDesc = 30;
+    IconId = 905;
+    RColor = 255;
+    GColor = 0;
+    BColor = 0;
+    LineType = 0;
+    Coalitions = [1, 2];
+  }
+  
+
+  MCU_TR_InfluenceArea
+  {
+    Index = 4041;
+    Name = "Zone Russe";
+    Desc = "";
+    Targets = [];
+    Objects = [];
+    XPos = 38122.551;
+    YPos = 183.879;
+    ZPos = 28879.024;
+    XOri = 0.00;
+    YOri = 0.00;
+    ZOri = 0.00;
+    Enabled = 1;
+    Country = 101;
+    Boundary
+    {
+      -84.8052, -60.0762;
+      102523, -134.657;
+      102202, 54325.7;
+      47278.7, 41937.3;
+      16.6432, 49884.8;
+    }
+  }
+  
+
+  MCU_TR_InfluenceArea
+  {
+    Index = 4042;
+    Name = "Zone Allemande";
+    Desc = "";
+    Targets = [];
+    Objects = [];
+    XPos = 48331.068;
+    YPos = 183.879;
+    ZPos = 82205.095;
+    XOri = 0.00;
+    YOri = 0.00;
+    ZOri = 0.00;
+    Enabled = 1;
+    Country = 201;
+    Boundary
+    {
+      38062.3, 166284;
+      259.304, 166441;
+      -26.0161, 50358;
+      46132.7, 42425.7;
+      102119, 54803.3;
+      102470, 165963;
+    }
+  }
+  
+
+  Group
+  {
+    Name = "frontiere";
+    Index = 4043;
+    Desc = "rouge a gauche";
+    MCU_Icon
+    {
+      Index = 4044;
+      Targets = [4045];
+      Objects = [];
+      XPos = 5275.777;
+      YPos = 1000.000;
+      ZPos = 48835.882;
+      XOri = 0.00;
+      YOri = 271.49;
+      ZOri = 0.00;
+      Enabled = 1;
+      LCName = 31;
+      LCDesc = 32;
+      IconId = 0;
+      RColor = 255;
+      GColor = 255;
+      BColor = 255;
+      LineType = 13;
+      Coalitions = [1, 2];
+    }
+    
+
+    MCU_Icon
+    {
+      Index = 4045;
+      Targets = [4047];
+      Objects = [];
+      XPos = 29563.550;
+      YPos = 1000.000;
+      ZPos = 45161.084;
+      XOri = 0.00;
+      YOri = 271.49;
+      ZOri = 0.00;
+      Enabled = 1;
+      LCName = 33;
+      LCDesc = 34;
+      IconId = 0;
+      RColor = 255;
+      GColor = 255;
+      BColor = 255;
+      LineType = 13;
+      Coalitions = [1, 2];
+    }
+    
+
+    MCU_Icon
+    {
+      Index = 4047;
+      Targets = [4049];
+      Objects = [];
+      XPos = 46247.375;
+      YPos = 1000.000;
+      ZPos = 41988.930;
+      XOri = 0.00;
+      YOri = 271.49;
+      ZOri = 0.00;
+      Enabled = 1;
+      LCName = 35;
+      LCDesc = 36;
+      IconId = 0;
+      RColor = 255;
+      GColor = 255;
+      BColor = 255;
+      LineType = 13;
+      Coalitions = [1, 2];
+    }
+    
+
+    MCU_Icon
+    {
+      Index = 4049;
+      Targets = [];
+      Objects = [];
+      XPos = 101579.189;
+      YPos = 1000.000;
+      ZPos = 54146.267;
+      XOri = 0.00;
+      YOri = 271.49;
+      ZOri = 0.00;
+      Enabled = 1;
+      LCName = 37;
+      LCDesc = 38;
+      IconId = 0;
+      RColor = 255;
+      GColor = 255;
+      BColor = 255;
+      LineType = 13;
+      Coalitions = [1, 2];
+    }
+    
+
+  }
+  
+
 }
 
 
@@ -76258,12 +78068,12 @@ Group
 Group
 {
   Name = "deco notre base";
-  Index = 3574;
+  Index = 3759;
   Desc = "";
   Block
   {
     Name = "Block";
-    Index = 3575;
+    Index = 3760;
     LinkTrId = 0;
     XPos = 12397.695;
     YPos = 141.446;
@@ -76285,7 +78095,7 @@ Group
   Flag
   {
     Name = "Flag";
-    Index = 3576;
+    Index = 3761;
     LinkTrId = 0;
     XPos = 12569.499;
     YPos = 141.446;
@@ -76310,8 +78120,8 @@ Group
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3577;
-    LinkTrId = 3578;
+    Index = 3762;
+    LinkTrId = 3763;
     XPos = 13011.333;
     YPos = 141.446;
     ZPos = 11797.260;
@@ -76340,9 +78150,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76351,7 +78163,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3578;
+    Index = 3763;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -76363,14 +78175,14 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3577;
+    MisObjID = 3762;
   }
   
 
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3580;
+    Index = 3765;
     LinkTrId = 0;
     XPos = 12454.140;
     YPos = 141.446;
@@ -76400,9 +78212,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76412,7 +78226,7 @@ Group
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3581;
+    Index = 3766;
     LinkTrId = 0;
     XPos = 12460.758;
     YPos = 141.446;
@@ -76442,9 +78256,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76454,7 +78270,7 @@ Group
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3582;
+    Index = 3767;
     LinkTrId = 0;
     XPos = 12467.981;
     YPos = 141.446;
@@ -76484,9 +78300,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76496,7 +78314,7 @@ Group
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3583;
+    Index = 3768;
     LinkTrId = 0;
     XPos = 12455.324;
     YPos = 141.446;
@@ -76526,9 +78344,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76538,8 +78358,8 @@ Group
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3584;
-    LinkTrId = 3585;
+    Index = 3769;
+    LinkTrId = 3770;
     XPos = 12573.408;
     YPos = 141.446;
     ZPos = 12040.657;
@@ -76568,9 +78388,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76580,8 +78402,8 @@ Group
   Vehicle
   {
     Name = "light";
-    Index = 3586;
-    LinkTrId = 3587;
+    Index = 3771;
+    LinkTrId = 3772;
     XPos = 12662.724;
     YPos = 141.446;
     ZPos = 11781.481;
@@ -76610,9 +78432,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76621,7 +78445,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3587;
+    Index = 3772;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -76633,16 +78457,16 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3586;
+    MisObjID = 3771;
   }
   
 
   MCU_TR_MissionBegin
   {
-    Index = 3589;
+    Index = 3774;
     Name = "Translator Mission Begin";
     Desc = "";
-    Targets = [3590,3591];
+    Targets = [3775,3776];
     Objects = [];
     XPos = 12655.602;
     YPos = 141.446;
@@ -76656,11 +78480,11 @@ Group
 
   MCU_CMD_ForceComplete
   {
-    Index = 3592;
+    Index = 3777;
     Name = "light on";
     Desc = "";
     Targets = [];
-    Objects = [3587,3593,3594,3595,3596,3597];
+    Objects = [3772,3778,3779,3780,3781,3782];
     XPos = 12604.397;
     YPos = 141.446;
     ZPos = 11616.178;
@@ -76674,10 +78498,10 @@ Group
 
   MCU_Timer
   {
-    Index = 3590;
+    Index = 3775;
     Name = "time light on";
     Desc = "";
-    Targets = [3592,3599];
+    Targets = [3777,3784];
     Objects = [];
     XPos = 12603.676;
     YPos = 141.446;
@@ -76692,10 +78516,10 @@ Group
 
   MCU_Timer
   {
-    Index = 3591;
+    Index = 3776;
     Name = "time off";
     Desc = "";
-    Targets = [3601,3602];
+    Targets = [3786,3787];
     Objects = [];
     XPos = 12558.241;
     YPos = 141.446;
@@ -76710,11 +78534,11 @@ Group
 
   MCU_CMD_ForceComplete
   {
-    Index = 3601;
+    Index = 3786;
     Name = "light off";
     Desc = "";
     Targets = [];
-    Objects = [3587,3593,3594,3595,3596,3597];
+    Objects = [3772,3778,3779,3780,3781,3782];
     XPos = 12564.010;
     YPos = 141.446;
     ZPos = 11612.572;
@@ -76729,8 +78553,8 @@ Group
   Vehicle
   {
     Name = "light";
-    Index = 3604;
-    LinkTrId = 3593;
+    Index = 3789;
+    LinkTrId = 3778;
     XPos = 13037.669;
     YPos = 141.446;
     ZPos = 11501.479;
@@ -76759,9 +78583,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -76770,7 +78596,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3593;
+    Index = 3778;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -76782,13 +78608,13 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3604;
+    MisObjID = 3789;
   }
   
 
   MCU_TR_Entity
   {
-    Index = 3585;
+    Index = 3770;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -76800,17 +78626,17 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3584;
+    MisObjID = 3769;
   }
   
 
   MCU_CMD_Flare
   {
-    Index = 3607;
+    Index = 3792;
     Name = "command Flare";
     Desc = "";
     Targets = [];
-    Objects = [3585];
+    Objects = [3770];
     XPos = 12551.976;
     YPos = 141.446;
     ZPos = 12073.277;
@@ -76823,7 +78649,7 @@ Group
 
   MCU_TR_ComplexTrigger
   {
-    Index = 3608;
+    Index = 3793;
     Name = "flare trigger";
     Desc = "";
     Targets = [];
@@ -76869,7 +78695,7 @@ Group
       OnEvent
       {
         Type = 58;
-        TarId = 3607;
+        TarId = 3792;
       }
     }
   }
@@ -76878,8 +78704,8 @@ Group
   Block
   {
     Name = "Block";
-    Index = 3609;
-    LinkTrId = 3610;
+    Index = 3794;
+    LinkTrId = 3795;
     XPos = 13335.340;
     YPos = 141.446;
     ZPos = 11678.895;
@@ -76900,7 +78726,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 3611;
+    Index = 3796;
     LinkTrId = 0;
     XPos = 13205.459;
     YPos = 141.446;
@@ -76922,7 +78748,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 3612;
+    Index = 3797;
     LinkTrId = 0;
     XPos = 12717.989;
     YPos = 141.446;
@@ -76943,7 +78769,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3610;
+    Index = 3795;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -76955,14 +78781,14 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3609;
+    MisObjID = 3794;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3614;
+    Index = 3799;
     LinkTrId = 0;
     XPos = 13096.866;
     YPos = 141.446;
@@ -76984,7 +78810,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 3615;
+    Index = 3800;
     LinkTrId = 0;
     XPos = 12499.142;
     YPos = 141.446;
@@ -77006,7 +78832,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 3616;
+    Index = 3801;
     LinkTrId = 0;
     XPos = 12497.029;
     YPos = 141.446;
@@ -77028,7 +78854,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 3617;
+    Index = 3802;
     LinkTrId = 0;
     XPos = 12494.540;
     YPos = 141.446;
@@ -77050,8 +78876,8 @@ Group
   Vehicle
   {
     Name = "light";
-    Index = 3618;
-    LinkTrId = 3594;
+    Index = 3803;
+    LinkTrId = 3779;
     XPos = 13427.408;
     YPos = 141.446;
     ZPos = 11240.908;
@@ -77080,9 +78906,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -77091,7 +78919,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3594;
+    Index = 3779;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -77103,15 +78931,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3618;
+    MisObjID = 3803;
   }
   
 
   Vehicle
   {
     Name = "light";
-    Index = 3620;
-    LinkTrId = 3595;
+    Index = 3805;
+    LinkTrId = 3780;
     XPos = 12719.024;
     YPos = 141.446;
     ZPos = 11923.367;
@@ -77140,9 +78968,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -77151,7 +78981,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3595;
+    Index = 3780;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -77163,15 +78993,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3620;
+    MisObjID = 3805;
   }
   
 
   Vehicle
   {
     Name = "light";
-    Index = 3622;
-    LinkTrId = 3596;
+    Index = 3807;
+    LinkTrId = 3781;
     XPos = 13103.278;
     YPos = 141.446;
     ZPos = 11668.536;
@@ -77200,9 +79030,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -77211,7 +79043,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3596;
+    Index = 3781;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -77223,15 +79055,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3622;
+    MisObjID = 3807;
   }
   
 
   Vehicle
   {
     Name = "light";
-    Index = 3624;
-    LinkTrId = 3597;
+    Index = 3809;
+    LinkTrId = 3782;
     XPos = 13541.744;
     YPos = 141.446;
     ZPos = 11398.192;
@@ -77260,9 +79092,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -77271,7 +79105,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3597;
+    Index = 3782;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -77283,15 +79117,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3624;
+    MisObjID = 3809;
   }
   
 
   Effect
   {
     Name = "fire";
-    Index = 3626;
-    LinkTrId = 3627;
+    Index = 3811;
+    LinkTrId = 3812;
     XPos = 12912.547;
     YPos = 141.446;
     ZPos = 11603.421;
@@ -77306,11 +79140,11 @@ Group
 
   MCU_CMD_Effect
   {
-    Index = 3599;
+    Index = 3784;
     Name = "start fire";
     Desc = "";
     Targets = [];
-    Objects = [3627,3629,3630,3631];
+    Objects = [3812,3814,3815,3816];
     XPos = 12603.414;
     YPos = 141.446;
     ZPos = 11506.993;
@@ -77323,11 +79157,11 @@ Group
 
   MCU_CMD_Effect
   {
-    Index = 3602;
+    Index = 3787;
     Name = "stop fire";
     Desc = "";
     Targets = [];
-    Objects = [3627,3629,3630,3631];
+    Objects = [3812,3814,3815,3816];
     XPos = 12558.319;
     YPos = 141.446;
     ZPos = 11508.731;
@@ -77340,7 +79174,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3627;
+    Index = 3812;
     Name = "Effect entity";
     Desc = "";
     Targets = [];
@@ -77352,15 +79186,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3626;
+    MisObjID = 3811;
   }
   
 
   Effect
   {
     Name = "fire";
-    Index = 3634;
-    LinkTrId = 3629;
+    Index = 3819;
+    LinkTrId = 3814;
     XPos = 12986.311;
     YPos = 141.446;
     ZPos = 11753.622;
@@ -77375,7 +79209,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3629;
+    Index = 3814;
     Name = "Effect entity";
     Desc = "";
     Targets = [];
@@ -77387,15 +79221,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3634;
+    MisObjID = 3819;
   }
   
 
   Effect
   {
     Name = "fire";
-    Index = 3636;
-    LinkTrId = 3630;
+    Index = 3821;
+    LinkTrId = 3815;
     XPos = 12545.535;
     YPos = 141.446;
     ZPos = 11863.590;
@@ -77410,7 +79244,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3630;
+    Index = 3815;
     Name = "Effect entity";
     Desc = "";
     Targets = [];
@@ -77422,15 +79256,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3636;
+    MisObjID = 3821;
   }
   
 
   Effect
   {
     Name = "fire";
-    Index = 3638;
-    LinkTrId = 3631;
+    Index = 3823;
+    LinkTrId = 3816;
     XPos = 12611.518;
     YPos = 141.446;
     ZPos = 11997.556;
@@ -77445,7 +79279,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3631;
+    Index = 3816;
     Name = "Effect entity";
     Desc = "";
     Targets = [];
@@ -77457,15 +79291,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3638;
+    MisObjID = 3823;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3640;
-    LinkTrId = 3641;
+    Index = 3825;
+    LinkTrId = 3826;
     XPos = 12383.725;
     YPos = 141.446;
     ZPos = 11947.857;
@@ -77485,7 +79319,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3641;
+    Index = 3826;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77497,7 +79331,7 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3640;
+    MisObjID = 3825;
   }
   
 
@@ -77508,13 +79342,13 @@ Group
 Group
 {
   Name = "miam";
-  Index = 3643;
+  Index = 3828;
   Desc = "";
   Block
   {
     Name = "Block";
-    Index = 3644;
-    LinkTrId = 3645;
+    Index = 3829;
+    LinkTrId = 3830;
     XPos = 53246.408;
     YPos = 74.708;
     ZPos = 64651.900;
@@ -77534,7 +79368,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3645;
+    Index = 3830;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77546,15 +79380,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3644;
+    MisObjID = 3829;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3647;
-    LinkTrId = 3648;
+    Index = 3832;
+    LinkTrId = 3833;
     XPos = 53340.636;
     YPos = 74.708;
     ZPos = 64697.428;
@@ -77574,7 +79408,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3648;
+    Index = 3833;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77586,15 +79420,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3647;
+    MisObjID = 3832;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3650;
-    LinkTrId = 3651;
+    Index = 3835;
+    LinkTrId = 3836;
     XPos = 53239.393;
     YPos = 74.708;
     ZPos = 64632.624;
@@ -77614,7 +79448,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3651;
+    Index = 3836;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77626,15 +79460,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3650;
+    MisObjID = 3835;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3653;
-    LinkTrId = 3654;
+    Index = 3838;
+    LinkTrId = 3839;
     XPos = 53205.453;
     YPos = 74.708;
     ZPos = 64610.921;
@@ -77654,7 +79488,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3654;
+    Index = 3839;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77666,15 +79500,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3653;
+    MisObjID = 3838;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3656;
-    LinkTrId = 3657;
+    Index = 3841;
+    LinkTrId = 3842;
     XPos = 53204.160;
     YPos = 74.708;
     ZPos = 64615.995;
@@ -77694,7 +79528,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3657;
+    Index = 3842;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77706,15 +79540,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3656;
+    MisObjID = 3841;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3659;
-    LinkTrId = 3660;
+    Index = 3844;
+    LinkTrId = 3845;
     XPos = 53203.190;
     YPos = 74.708;
     ZPos = 64620.461;
@@ -77734,7 +79568,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3660;
+    Index = 3845;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77746,15 +79580,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3659;
+    MisObjID = 3844;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3662;
-    LinkTrId = 3663;
+    Index = 3847;
+    LinkTrId = 3848;
     XPos = 53201.897;
     YPos = 74.708;
     ZPos = 64625.535;
@@ -77774,7 +79608,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3663;
+    Index = 3848;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77786,15 +79620,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3662;
+    MisObjID = 3847;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3665;
-    LinkTrId = 3666;
+    Index = 3850;
+    LinkTrId = 3851;
     XPos = 53200.055;
     YPos = 74.708;
     ZPos = 64632.672;
@@ -77814,7 +79648,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3666;
+    Index = 3851;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77826,15 +79660,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3665;
+    MisObjID = 3850;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3668;
-    LinkTrId = 3669;
+    Index = 3853;
+    LinkTrId = 3854;
     XPos = 53198.762;
     YPos = 74.683;
     ZPos = 64637.746;
@@ -77854,7 +79688,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3669;
+    Index = 3854;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77866,15 +79700,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3668;
+    MisObjID = 3853;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3671;
-    LinkTrId = 3672;
+    Index = 3856;
+    LinkTrId = 3857;
     XPos = 53197.792;
     YPos = 74.664;
     ZPos = 64642.212;
@@ -77894,7 +79728,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3672;
+    Index = 3857;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77906,15 +79740,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3671;
+    MisObjID = 3856;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3674;
-    LinkTrId = 3675;
+    Index = 3859;
+    LinkTrId = 3860;
     XPos = 53196.499;
     YPos = 74.638;
     ZPos = 64647.286;
@@ -77934,7 +79768,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3675;
+    Index = 3860;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77946,15 +79780,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3674;
+    MisObjID = 3859;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3677;
-    LinkTrId = 3678;
+    Index = 3862;
+    LinkTrId = 3863;
     XPos = 53269.309;
     YPos = 74.708;
     ZPos = 64698.564;
@@ -77974,7 +79808,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3678;
+    Index = 3863;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -77986,15 +79820,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3677;
+    MisObjID = 3862;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3680;
-    LinkTrId = 3681;
+    Index = 3865;
+    LinkTrId = 3866;
     XPos = 53282.388;
     YPos = 74.708;
     ZPos = 64462.807;
@@ -78014,7 +79848,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3681;
+    Index = 3866;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -78026,15 +79860,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3680;
+    MisObjID = 3865;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3683;
-    LinkTrId = 3684;
+    Index = 3868;
+    LinkTrId = 3869;
     XPos = 53251.371;
     YPos = 74.708;
     ZPos = 64484.489;
@@ -78054,7 +79888,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3684;
+    Index = 3869;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -78066,15 +79900,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3683;
+    MisObjID = 3868;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3686;
-    LinkTrId = 3687;
+    Index = 3871;
+    LinkTrId = 3872;
     XPos = 53246.493;
     YPos = 74.708;
     ZPos = 64488.939;
@@ -78094,7 +79928,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3687;
+    Index = 3872;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -78106,15 +79940,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3686;
+    MisObjID = 3871;
   }
   
 
   Block
   {
     Name = "Block";
-    Index = 3689;
-    LinkTrId = 3690;
+    Index = 3874;
+    LinkTrId = 3875;
     XPos = 53242.857;
     YPos = 74.708;
     ZPos = 64493.397;
@@ -78134,7 +79968,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3690;
+    Index = 3875;
     Name = "Block entity";
     Desc = "";
     Targets = [];
@@ -78146,15 +79980,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3689;
+    MisObjID = 3874;
   }
   
 
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3692;
-    LinkTrId = 3693;
+    Index = 3877;
+    LinkTrId = 3878;
     XPos = 53348.793;
     YPos = 74.708;
     ZPos = 64647.192;
@@ -78183,9 +80017,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -78194,7 +80030,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3693;
+    Index = 3878;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -78206,15 +80042,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3692;
+    MisObjID = 3877;
   }
   
 
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3695;
-    LinkTrId = 3696;
+    Index = 3880;
+    LinkTrId = 3881;
     XPos = 53347.794;
     YPos = 75.868;
     ZPos = 64820.844;
@@ -78243,9 +80079,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -78254,7 +80092,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3696;
+    Index = 3881;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -78266,15 +80104,15 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3695;
+    MisObjID = 3880;
   }
   
 
   Vehicle
   {
     Name = "Vehicle";
-    Index = 3698;
-    LinkTrId = 3699;
+    Index = 3883;
+    LinkTrId = 3884;
     XPos = 53295.040;
     YPos = 74.708;
     ZPos = 64644.246;
@@ -78303,9 +80141,11 @@ Group
     Callnum = 0;
     Skin = "";
     RepairFriendlies = 0;
+    RehealFriendlies = 0;
     RearmFriendlies = 0;
     RefuelFriendlies = 0;
     RepairTime = 0;
+    RehealTime = 1;
     RearmTime = 0;
     RefuelTime = 0;
     MaintenanceRadius = 10;
@@ -78314,7 +80154,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 3699;
+    Index = 3884;
     Name = "Vehicle entity";
     Desc = "";
     Targets = [];
@@ -78326,7 +80166,311 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 3698;
+    MisObjID = 3883;
+  }
+  
+
+  Block
+  {
+    Name = "Block";
+    Index = 4051;
+    LinkTrId = 4052;
+    XPos = 53211.308;
+    YPos = 75.035;
+    ZPos = 64708.211;
+    XOri = 0.00;
+    YOri = 177.55;
+    ZOri = 0.00;
+    Model = "graphics\blocks\arf_gsm_2.mgm";
+    Script = "LuaScripts\WorldObjects\Blocks\arf_gsm_2.txt";
+    Country = 201;
+    Desc = "";
+    Durability = 25000;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+  }
+  
+
+  MCU_TR_Entity
+  {
+    Index = 4052;
+    Name = "Block entity";
+    Desc = "";
+    Targets = [];
+    Objects = [];
+    XPos = 53211.308;
+    YPos = 75.235;
+    ZPos = 64708.211;
+    XOri = 0.00;
+    YOri = 0.00;
+    ZOri = 0.00;
+    Enabled = 1;
+    MisObjID = 4051;
+  }
+  
+
+  Vehicle
+  {
+    Name = "Vehicle";
+    Index = 4054;
+    LinkTrId = 0;
+    XPos = 53396.555;
+    YPos = 67.403;
+    ZPos = 65069.414;
+    XOri = 1.07;
+    YOri = 218.56;
+    ZOri = 357.68;
+    Script = "LuaScripts\WorldObjects\vehicles\ba64.txt";
+    Model = "graphics\vehicles\ba64\ba64.mgm";
+    Desc = "";
+    Country = 201;
+    NumberInFormation = 0;
+    Vulnerable = 1;
+    Engageable = 1;
+    LimitAmmo = 1;
+    AILevel = 2;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+    CoopStart = 0;
+    Spotter = -1;
+    BeaconChannel = 0;
+    Callsign = 0;
+    PayloadId = 0;
+    WMMask = 1;
+    Fuel = 1;
+    Callnum = 0;
+    Skin = "";
+    RepairFriendlies = 0;
+    RehealFriendlies = 0;
+    RearmFriendlies = 0;
+    RefuelFriendlies = 0;
+    RepairTime = 4;
+    RehealTime = 1;
+    RearmTime = 1;
+    RefuelTime = 1;
+    MaintenanceRadius = 10;
+  }
+  
+
+  Vehicle
+  {
+    Name = "Vehicle";
+    Index = 4056;
+    LinkTrId = 0;
+    XPos = 53394.514;
+    YPos = 67.459;
+    ZPos = 65071.839;
+    XOri = 1.07;
+    YOri = 218.56;
+    ZOri = 357.68;
+    Script = "LuaScripts\WorldObjects\vehicles\ba64.txt";
+    Model = "graphics\vehicles\ba64\ba64.mgm";
+    Desc = "";
+    Country = 201;
+    NumberInFormation = 0;
+    Vulnerable = 1;
+    Engageable = 1;
+    LimitAmmo = 1;
+    AILevel = 2;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+    CoopStart = 0;
+    Spotter = -1;
+    BeaconChannel = 0;
+    Callsign = 0;
+    PayloadId = 0;
+    WMMask = 1;
+    Fuel = 1;
+    Callnum = 0;
+    Skin = "";
+    RepairFriendlies = 0;
+    RehealFriendlies = 0;
+    RearmFriendlies = 0;
+    RefuelFriendlies = 0;
+    RepairTime = 4;
+    RehealTime = 1;
+    RearmTime = 1;
+    RefuelTime = 1;
+    MaintenanceRadius = 10;
+  }
+  
+
+  Vehicle
+  {
+    Name = "Vehicle";
+    Index = 4057;
+    LinkTrId = 0;
+    XPos = 53392.738;
+    YPos = 67.514;
+    ZPos = 65074.105;
+    XOri = 1.07;
+    YOri = 218.56;
+    ZOri = 357.68;
+    Script = "LuaScripts\WorldObjects\vehicles\ba64.txt";
+    Model = "graphics\vehicles\ba64\ba64.mgm";
+    Desc = "";
+    Country = 201;
+    NumberInFormation = 0;
+    Vulnerable = 1;
+    Engageable = 1;
+    LimitAmmo = 1;
+    AILevel = 2;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+    CoopStart = 0;
+    Spotter = -1;
+    BeaconChannel = 0;
+    Callsign = 0;
+    PayloadId = 0;
+    WMMask = 1;
+    Fuel = 1;
+    Callnum = 0;
+    Skin = "";
+    RepairFriendlies = 0;
+    RehealFriendlies = 0;
+    RearmFriendlies = 0;
+    RefuelFriendlies = 0;
+    RepairTime = 4;
+    RehealTime = 1;
+    RearmTime = 1;
+    RefuelTime = 1;
+    MaintenanceRadius = 10;
+  }
+  
+
+  Vehicle
+  {
+    Name = "Vehicle";
+    Index = 4058;
+    LinkTrId = 0;
+    XPos = 53390.817;
+    YPos = 67.591;
+    ZPos = 65076.987;
+    XOri = 1.07;
+    YOri = 218.56;
+    ZOri = 357.68;
+    Script = "LuaScripts\WorldObjects\vehicles\ba64.txt";
+    Model = "graphics\vehicles\ba64\ba64.mgm";
+    Desc = "";
+    Country = 201;
+    NumberInFormation = 0;
+    Vulnerable = 1;
+    Engageable = 1;
+    LimitAmmo = 1;
+    AILevel = 2;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+    CoopStart = 0;
+    Spotter = -1;
+    BeaconChannel = 0;
+    Callsign = 0;
+    PayloadId = 0;
+    WMMask = 1;
+    Fuel = 1;
+    Callnum = 0;
+    Skin = "";
+    RepairFriendlies = 0;
+    RehealFriendlies = 0;
+    RearmFriendlies = 0;
+    RefuelFriendlies = 0;
+    RepairTime = 4;
+    RehealTime = 1;
+    RearmTime = 1;
+    RefuelTime = 1;
+    MaintenanceRadius = 10;
+  }
+  
+
+  Vehicle
+  {
+    Name = "Vehicle";
+    Index = 4059;
+    LinkTrId = 0;
+    XPos = 53373.982;
+    YPos = 68.373;
+    ZPos = 65109.943;
+    XOri = 0.14;
+    YOri = 220.04;
+    ZOri = 358.39;
+    Script = "LuaScripts\WorldObjects\vehicles\ford-g917.txt";
+    Model = "graphics\vehicles\ford\ford-g917.mgm";
+    Desc = "";
+    Country = 201;
+    NumberInFormation = 0;
+    Vulnerable = 1;
+    Engageable = 1;
+    LimitAmmo = 1;
+    AILevel = 2;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+    CoopStart = 0;
+    Spotter = -1;
+    BeaconChannel = 0;
+    Callsign = 0;
+    PayloadId = 0;
+    WMMask = 1;
+    Fuel = 1;
+    Callnum = 0;
+    Skin = "";
+    RepairFriendlies = 0;
+    RehealFriendlies = 0;
+    RearmFriendlies = 0;
+    RefuelFriendlies = 0;
+    RepairTime = 4;
+    RehealTime = 1;
+    RearmTime = 1;
+    RefuelTime = 1;
+    MaintenanceRadius = 10;
+  }
+  
+
+  Vehicle
+  {
+    Name = "Vehicle";
+    Index = 4062;
+    LinkTrId = 0;
+    XPos = 53397.981;
+    YPos = 68.504;
+    ZPos = 65096.248;
+    XOri = 358.85;
+    YOri = 36.61;
+    ZOri = 2.29;
+    Script = "LuaScripts\WorldObjects\vehicles\opel-blitz.txt";
+    Model = "graphics\vehicles\opel\opel-blitz.mgm";
+    Desc = "";
+    Country = 201;
+    NumberInFormation = 0;
+    Vulnerable = 1;
+    Engageable = 1;
+    LimitAmmo = 1;
+    AILevel = 2;
+    DamageReport = 50;
+    DamageThreshold = 1;
+    DeleteAfterDeath = 1;
+    CoopStart = 0;
+    Spotter = -1;
+    BeaconChannel = 0;
+    Callsign = 0;
+    PayloadId = 0;
+    WMMask = 1;
+    Fuel = 1;
+    Callnum = 0;
+    Skin = "";
+    RepairFriendlies = 0;
+    RehealFriendlies = 0;
+    RearmFriendlies = 0;
+    RefuelFriendlies = 0;
+    RepairTime = 4;
+    RehealTime = 1;
+    RearmTime = 1;
+    RefuelTime = 1;
+    MaintenanceRadius = 10;
   }
   
 
