@@ -157844,7 +157844,7 @@ Group
       MCU_Activate
       {
         Index = 7877;
-        Name = " Activate";
+        Name = "Activate";
         Desc = "";
         Targets = [];
         Objects = [7861];
@@ -160569,209 +160569,17 @@ MCU_TR_MissionBegin
 
 
 
-Vehicle
-{
-  Name = "spotter";
-  Index = 8055;
-  LinkTrId = 8056;
-  XPos = 169031.864;
-  YPos = 165.141;
-  ZPos = 40752.983;
-  XOri = 359.53;
-  YOri = 0.00;
-  ZOri = 2.05;
-  Script = "LuaScripts\WorldObjects\vehicles\fake_vehicle.txt";
-  Model = "graphics\vehicles\fake_vehicle\fake_vehicle.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = 20000;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8056;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 169031.864;
-  YPos = 165.341;
-  ZPos = 40752.983;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8055;
-}
-
-
-
-Vehicle
-{
-  Name = "spotter";
-  Index = 8058;
-  LinkTrId = 8059;
-  XPos = 153422.819;
-  YPos = 140.287;
-  ZPos = 39398.948;
-  XOri = 356.68;
-  YOri = 0.00;
-  ZOri = 358.85;
-  Script = "LuaScripts\WorldObjects\vehicles\fake_vehicle.txt";
-  Model = "graphics\vehicles\fake_vehicle\fake_vehicle.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = 20000;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8059;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 153422.819;
-  YPos = 140.487;
-  ZPos = 39398.948;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8058;
-}
-
-
-
-Vehicle
-{
-  Name = "spotter";
-  Index = 8061;
-  LinkTrId = 8062;
-  XPos = 135691.005;
-  YPos = 142.920;
-  ZPos = 39318.865;
-  XOri = 359.41;
-  YOri = 0.00;
-  ZOri = 359.86;
-  Script = "LuaScripts\WorldObjects\vehicles\fake_vehicle.txt";
-  Model = "graphics\vehicles\fake_vehicle\fake_vehicle.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = 20000;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8062;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 135691.005;
-  YPos = 143.120;
-  ZPos = 39318.865;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8061;
-}
-
-
-
 Group
 {
   Name = "Scout";
-  Index = 8064;
+  Index = 8055;
   Desc = "";
   MCU_TR_MissionBegin
   {
-    Index = 8065;
-    Name = " Begin";
+    Index = 8056;
+    Name = "Begin";
     Desc = "";
-    Targets = [8066];
+    Targets = [8057];
     Objects = [];
     XPos = 222761.862;
     YPos = 137.911;
@@ -160786,8 +160594,8 @@ Group
   Plane
   {
     Name = "Plane";
-    Index = 8067;
-    LinkTrId = 8068;
+    Index = 8058;
+    LinkTrId = 8059;
     XPos = 219261.969;
     YPos = 600.000;
     ZPos = 79202.434;
@@ -160822,7 +160630,7 @@ Group
 
   MCU_TR_Entity
   {
-    Index = 8068;
+    Index = 8059;
     Name = "Plane entity";
     Desc = "";
     Targets = [];
@@ -160834,16 +160642,16 @@ Group
     YOri = 0.00;
     ZOri = 0.00;
     Enabled = 0;
-    MisObjID = 8067;
+    MisObjID = 8058;
   }
   
 
   MCU_Timer
   {
-    Index = 8066;
+    Index = 8057;
     Name = "2s";
     Desc = "";
-    Targets = [8071];
+    Targets = [8062];
     Objects = [];
     XPos = 220545.539;
     YPos = 147.394;
@@ -160858,11 +160666,11 @@ Group
 
   MCU_Waypoint
   {
-    Index = 8071;
+    Index = 8062;
     Name = "Trigger Waypoint";
     Desc = "";
     Targets = [];
-    Objects = [8068];
+    Objects = [8059];
     XPos = 187900.781;
     YPos = 600.000;
     ZPos = 43574.041;
@@ -160879,75 +160687,11 @@ Group
 
 
 
-Vehicle
-{
-  Name = "spotter";
-  Index = 8073;
-  LinkTrId = 8074;
-  XPos = 248880.968;
-  YPos = 88.843;
-  ZPos = 130746.891;
-  XOri = 0.00;
-  YOri = 27.92;
-  ZOri = 0.00;
-  Script = "LuaScripts\WorldObjects\vehicles\ndb.txt";
-  Model = "graphics\vehicles\ndb\ndb.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = -1;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8074;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 248880.968;
-  YPos = 89.043;
-  ZPos = 130746.891;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8073;
-}
-
-
-
 Plane
 {
   Name = "Plane";
-  Index = 8076;
-  LinkTrId = 8077;
+  Index = 8064;
+  LinkTrId = 8065;
   XPos = 248180.163;
   YPos = 90.393;
   ZPos = 129794.282;
@@ -160983,7 +160727,7 @@ Plane
 
 MCU_TR_Entity
 {
-  Index = 8077;
+  Index = 8065;
   Name = "Plane entity";
   Desc = "";
   Targets = [];
@@ -160995,7 +160739,7 @@ MCU_TR_Entity
   YOri = 0.00;
   ZOri = 0.00;
   Enabled = 1;
-  MisObjID = 8076;
+  MisObjID = 8064;
 }
 
 
@@ -161003,12 +160747,12 @@ MCU_TR_Entity
 Group
 {
   Name = "decors";
-  Index = 8079;
+  Index = 8067;
   Desc = "";
   Block
   {
     Name = "Block";
-    Index = 8080;
+    Index = 8068;
     LinkTrId = 0;
     XPos = 248189.213;
     YPos = 88.843;
@@ -161030,7 +160774,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 8081;
+    Index = 8069;
     LinkTrId = 0;
     XPos = 248206.523;
     YPos = 88.843;
@@ -161052,7 +160796,7 @@ Group
   Block
   {
     Name = "Block";
-    Index = 8082;
+    Index = 8070;
     LinkTrId = 0;
     XPos = 248214.168;
     YPos = 88.843;
@@ -161071,198 +160815,6 @@ Group
   }
   
 
-}
-
-
-
-Vehicle
-{
-  Name = "spotter";
-  Index = 8083;
-  LinkTrId = 8084;
-  XPos = 230465.544;
-  YPos = 140.287;
-  ZPos = 104530.284;
-  XOri = 356.68;
-  YOri = 0.00;
-  ZOri = 358.85;
-  Script = "LuaScripts\WorldObjects\vehicles\fake_vehicle.txt";
-  Model = "graphics\vehicles\fake_vehicle\fake_vehicle.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = 20000;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8084;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 230465.544;
-  YPos = 140.487;
-  ZPos = 104530.284;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8083;
-}
-
-
-
-Vehicle
-{
-  Name = "spotter";
-  Index = 8086;
-  LinkTrId = 8087;
-  XPos = 206683.962;
-  YPos = 140.287;
-  ZPos = 77916.224;
-  XOri = 356.68;
-  YOri = 0.00;
-  ZOri = 358.85;
-  Script = "LuaScripts\WorldObjects\vehicles\fake_vehicle.txt";
-  Model = "graphics\vehicles\fake_vehicle\fake_vehicle.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = 20000;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8087;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 206683.962;
-  YPos = 140.487;
-  ZPos = 77916.224;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8086;
-}
-
-
-
-Vehicle
-{
-  Name = "spotter";
-  Index = 8089;
-  LinkTrId = 8090;
-  XPos = 193360.076;
-  YPos = 140.287;
-  ZPos = 58100.710;
-  XOri = 356.68;
-  YOri = 0.00;
-  ZOri = 358.85;
-  Script = "LuaScripts\WorldObjects\vehicles\fake_vehicle.txt";
-  Model = "graphics\vehicles\fake_vehicle\fake_vehicle.mgm";
-  Desc = "";
-  Country = 201;
-  NumberInFormation = 0;
-  Vulnerable = 1;
-  Engageable = 1;
-  LimitAmmo = 1;
-  AILevel = 2;
-  DamageReport = 50;
-  DamageThreshold = 1;
-  DeleteAfterDeath = 1;
-  CoopStart = 0;
-  Spotter = 20000;
-  BeaconChannel = 0;
-  Callsign = 0;
-  PayloadId = 0;
-  WMMask = 1;
-  Fuel = 1;
-  Callnum = 0;
-  Skin = "";
-  RepairFriendlies = 0;
-  RehealFriendlies = 0;
-  RearmFriendlies = 0;
-  RefuelFriendlies = 0;
-  RepairTime = 4;
-  RehealTime = 1;
-  RearmTime = 1;
-  RefuelTime = 1;
-  MaintenanceRadius = 10;
-}
-
-
-
-MCU_TR_Entity
-{
-  Index = 8090;
-  Name = "Vehicle entity";
-  Desc = "";
-  Targets = [];
-  Objects = [];
-  XPos = 193360.076;
-  YPos = 140.487;
-  ZPos = 58100.710;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-  MisObjID = 8089;
 }
 
 
