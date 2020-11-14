@@ -136317,7 +136317,7 @@ MCU_Timer
   XOri = 0.00;
   YOri = 0.00;
   ZOri = 0.00;
-  Time = 0.1;
+  Time = 480.1;
   Random = 100;
 }
 
@@ -136342,24 +136342,6 @@ MCU_Timer
 
 
 
-MCU_TR_MissionBegin
-{
-  Index = 6499;
-  Name = "Translator Mission Begin";
-  Desc = "";
-  Targets = [6496];
-  Objects = [];
-  XPos = 21211.664;
-  YPos = 133.543;
-  ZPos = 114884.537;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
-}
-
-
-
 Group
 {
   Name = "Base GB";
@@ -136377,9 +136359,9 @@ Group
       Desc = "";
       Targets = [6503];
       Objects = [];
-      XPos = 47833.385;
+      XPos = 47828.577;
       YPos = 0.000;
-      ZPos = 64925.399;
+      ZPos = 64911.775;
       XOri = 0.00;
       YOri = 0.00;
       ZOri = 0.00;
@@ -136393,9 +136375,9 @@ Group
       Name = "flak";
       Index = 6504;
       LinkTrId = 6505;
-      XPos = 48002.655;
+      XPos = 47908.892;
       YPos = 93.004;
-      ZPos = 64589.021;
+      ZPos = 64458.395;
       XOri = 0.00;
       YOri = 0.96;
       ZOri = 0.00;
@@ -136439,9 +136421,9 @@ Group
       Desc = "";
       Targets = [];
       Objects = [];
-      XPos = 48002.655;
+      XPos = 47908.892;
       YPos = 93.204;
-      ZPos = 64589.021;
+      ZPos = 64458.395;
       XOri = 0.00;
       YOri = 0.00;
       ZOri = 0.00;
@@ -136457,9 +136439,9 @@ Group
       Desc = "";
       Targets = [];
       Objects = [6505,6508,6509];
-      XPos = 48035.130;
+      XPos = 47833.180;
       YPos = 0.000;
-      ZPos = 64621.701;
+      ZPos = 64282.713;
       XOri = 0.00;
       YOri = 0.00;
       ZOri = 0.00;
@@ -136475,9 +136457,9 @@ Group
       Desc = "";
       Targets = [6502];
       Objects = [];
-      XPos = 48300.078;
+      XPos = 48295.270;
       YPos = 21.026;
-      ZPos = 64919.057;
+      ZPos = 64905.433;
       XOri = 0.00;
       YOri = 0.00;
       ZOri = 0.00;
@@ -136490,9 +136472,9 @@ Group
       Name = "flak";
       Index = 6511;
       LinkTrId = 6508;
-      XPos = 47964.837;
+      XPos = 47972.851;
       YPos = 93.004;
-      ZPos = 64491.753;
+      ZPos = 64365.935;
       XOri = 0.00;
       YOri = 0.96;
       ZOri = 0.00;
@@ -136536,9 +136518,9 @@ Group
       Desc = "";
       Targets = [];
       Objects = [];
-      XPos = 47964.837;
+      XPos = 47972.851;
       YPos = 93.204;
-      ZPos = 64491.753;
+      ZPos = 64365.935;
       XOri = 0.00;
       YOri = 0.00;
       ZOri = 0.00;
@@ -136552,9 +136534,9 @@ Group
       Name = "flak";
       Index = 6513;
       LinkTrId = 6509;
-      XPos = 48076.134;
+      XPos = 47948.713;
       YPos = 93.004;
-      ZPos = 64695.777;
+      ZPos = 64134.003;
       XOri = 0.00;
       YOri = 0.96;
       ZOri = 0.00;
@@ -136598,9 +136580,9 @@ Group
       Desc = "";
       Targets = [];
       Objects = [];
-      XPos = 48076.134;
+      XPos = 47948.713;
       YPos = 93.204;
-      ZPos = 64695.777;
+      ZPos = 64134.003;
       XOri = 0.00;
       YOri = 0.00;
       ZOri = 0.00;
@@ -136617,11 +136599,11 @@ Group
     Name = "Block";
     Index = 6515;
     LinkTrId = 0;
-    XPos = 47982.989;
+    XPos = 48343.298;
     YPos = 93.004;
-    ZPos = 64387.760;
+    ZPos = 63804.214;
     XOri = 0.00;
-    YOri = 336.42;
+    YOri = 61.91;
     ZOri = 0.00;
     Model = "graphics\blocks\arf_hangarbox.mgm";
     Script = "LuaScripts\WorldObjects\Blocks\arf_hangarbox.txt";
@@ -136639,11 +136621,11 @@ Group
     Name = "Block";
     Index = 6516;
     LinkTrId = 0;
-    XPos = 48014.633;
+    XPos = 48273.480;
     YPos = 93.004;
-    ZPos = 64460.271;
+    ZPos = 63841.426;
     XOri = 0.00;
-    YOri = 336.42;
+    YOri = 61.91;
     ZOri = 0.00;
     Model = "graphics\blocks\arf_hangarbox.mgm";
     Script = "LuaScripts\WorldObjects\Blocks\arf_hangarbox.txt";
@@ -136661,11 +136643,11 @@ Group
     Name = "Block";
     Index = 6517;
     LinkTrId = 0;
-    XPos = 48044.805;
+    XPos = 48206.432;
     YPos = 93.004;
-    ZPos = 64529.889;
+    ZPos = 63876.943;
     XOri = 0.00;
-    YOri = 336.42;
+    YOri = 61.91;
     ZOri = 0.00;
     Model = "graphics\blocks\arf_hangarbox.mgm";
     Script = "LuaScripts\WorldObjects\Blocks\arf_hangarbox.txt";
@@ -138008,7 +137990,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 0;
@@ -138071,7 +138053,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 1;
@@ -138126,7 +138108,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 2;
@@ -138429,7 +138411,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 0;
@@ -138492,7 +138474,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 1;
@@ -138547,7 +138529,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 2;
@@ -138850,7 +138832,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 0;
@@ -138913,7 +138895,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 1;
@@ -138968,7 +138950,7 @@ Group
       Model = "graphics\planes\spitfiremkvb\spitfiremkvb.mgm";
       Country = 102;
       Desc = "";
-      Skin = "spitfiremkvb\spitfiremkvb_skin_02.dds";
+      Skin = "spitfiremkvb\spitfiremkvb_skin_01.dds";
       AILevel = 2;
       CoopStart = 1;
       NumberInFormation = 2;
@@ -139273,7 +139255,7 @@ Group
     Index = 6609;
     Name = "OUT-SPIT1-INAIR";
     Desc = "";
-    Targets = [6658];
+    Targets = [6658,6734];
     Objects = [];
     XPos = 54804.715;
     YPos = 95.002;
@@ -139308,500 +139290,1535 @@ Group
 
 
 
+MCU_Counter
+{
+  Index = 6734;
+  Name = "START_BOMBERS";
+  Desc = "";
+  Targets = [6496];
+  Objects = [];
+  XPos = 20928.362;
+  YPos = 133.842;
+  ZPos = 110434.964;
+  XOri = 0.00;
+  YOri = 0.00;
+  ZOri = 0.00;
+  Counter = 1;
+  Dropcount = 0;
+}
+
+
+
 Group
 {
-  Name = "hurri1";
-  Index = 6694;
+  Name = "Hurricanes";
+  Index = 6735;
   Desc = "";
-  Plane
+  Group
   {
-    Name = "hurricane";
-    Index = 6695;
-    LinkTrId = 6696;
-    XPos = 48634.369;
-    YPos = 94.950;
-    ZPos = 64189.937;
-    XOri = 0.00;
-    YOri = 150.05;
-    ZOri = 9.90;
-    Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
-    Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
-    Country = 102;
+    Name = "hurri1";
+    Index = 6694;
     Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 0;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 0.6;
-  }
-  
-
-  MCU_TR_Entity
-  {
-    Index = 6696;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [];
-    Objects = [];
-    XPos = 48634.369;
-    YPos = 95.150;
-    ZPos = 64189.937;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 6695;
-    OnEvents
+    Plane
     {
-      OnEvent
+      Name = "hurricane";
+      Index = 6695;
+      LinkTrId = 6696;
+      XPos = 48621.737;
+      YPos = 93.004;
+      ZPos = 64193.599;
+      XOri = 0.00;
+      YOri = 150.02;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6696;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 48621.737;
+      YPos = 93.204;
+      ZPos = 64193.599;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6695;
+      OnEvents
       {
-        Type = 6;
-        TarId = 6698;
+        OnEvent
+        {
+          Type = 6;
+          TarId = 6698;
+        }
       }
     }
+    
+
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6699;
+      LinkTrId = 6700;
+      XPos = 48641.629;
+      YPos = 93.004;
+      ZPos = 64170.825;
+      XOri = 0.00;
+      YOri = 150.16;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 1;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6700;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [6696];
+      Objects = [];
+      XPos = 48641.629;
+      YPos = 93.204;
+      ZPos = 64170.825;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6699;
+    }
+    
+
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6702;
+      LinkTrId = 6703;
+      XPos = 48651.034;
+      YPos = 93.004;
+      ZPos = 64189.172;
+      XOri = 0.00;
+      YOri = 150.16;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 2;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6703;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [6696];
+      Objects = [];
+      XPos = 48651.034;
+      YPos = 93.204;
+      ZPos = 64189.172;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6702;
+    }
+    
+
+    MCU_CMD_TakeOff
+    {
+      Index = 6705;
+      Name = "command Take off";
+      Desc = "";
+      Targets = [];
+      Objects = [6696];
+      XPos = 48580.312;
+      YPos = 95.002;
+      ZPos = 63934.466;
+      XOri = 0.00;
+      YOri = 357.19;
+      ZOri = 0.00;
+      NoTaxiTakeoff = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6706;
+      Name = "in-hurri";
+      Desc = "";
+      Targets = [6705];
+      Objects = [];
+      XPos = 48624.661;
+      YPos = 95.002;
+      ZPos = 63918.678;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Time = 0.1;
+      Random = 100;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6698;
+      Name = "in air";
+      Desc = "";
+      Targets = [6708,6709,6710];
+      Objects = [];
+      XPos = 48534.559;
+      YPos = 95.002;
+      ZPos = 63962.268;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+      Time = 2;
+      Random = 100;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6708;
+      Name = "WP 1";
+      Desc = "";
+      Targets = [6712];
+      Objects = [6696];
+      XPos = 44230.380;
+      YPos = 4000.000;
+      ZPos = 67825.241;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6713;
+      Name = "WP-LAND";
+      Desc = "";
+      Targets = [6714];
+      Objects = [6696];
+      XPos = 51254.327;
+      YPos = 1000.000;
+      ZPos = 62117.826;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_CMD_Land
+    {
+      Index = 6714;
+      Name = "command Land";
+      Desc = "";
+      Targets = [];
+      Objects = [6696];
+      XPos = 48628.634;
+      YPos = 95.002;
+      ZPos = 64150.090;
+      XOri = 0.00;
+      YOri = 143.64;
+      ZOri = 0.00;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6716;
+      Name = "WP Attack";
+      Desc = "";
+      Targets = [6717,6718];
+      Objects = [6696];
+      XPos = 34653.628;
+      YPos = 5000.000;
+      ZPos = 81948.499;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6718;
+      Name = "Trigger Timer";
+      Desc = "";
+      Targets = [6720];
+      Objects = [];
+      XPos = 33541.416;
+      YPos = 111.584;
+      ZPos = 81305.341;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Time = 2401;
+      Random = 100;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6720;
+      Name = "WP-Back";
+      Desc = "";
+      Targets = [6713];
+      Objects = [6696];
+      XPos = 33862.247;
+      YPos = 1000.000;
+      ZPos = 58333.764;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_CMD_AttackArea
+    {
+      Index = 6717;
+      Name = "command AttackArea";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 33165.934;
+      YPos = 5000.000;
+      ZPos = 83517.463;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      AttackGround = 0;
+      AttackAir = 1;
+      AttackGTargets = 0;
+      AttackArea = 30000;
+      Time = 2400;
+      Priority = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6709;
+      Name = "2s";
+      Desc = "";
+      Targets = [6724];
+      Objects = [];
+      XPos = 48563.844;
+      YPos = 95.002;
+      ZPos = 63963.195;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+      Time = 2;
+      Random = 100;
+    }
+    
+
+    MCU_CMD_Formation
+    {
+      Index = 6724;
+      Name = "Command Formation";
+      Desc = "";
+      Targets = [];
+      Objects = [6696];
+      XPos = 48564.009;
+      YPos = 95.002;
+      ZPos = 63996.059;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+    FormationType = 1;
+    FormationDensity = 0;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6712;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6727];
+      Objects = [6696];
+      XPos = 41284.233;
+      YPos = 4000.000;
+      ZPos = 62113.163;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6727;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6729];
+      Objects = [6696];
+      XPos = 47778.031;
+      YPos = 4000.000;
+      ZPos = 58197.992;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6729;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6716];
+      Objects = [6696];
+      XPos = 50675.310;
+      YPos = 4000.000;
+      ZPos = 66526.948;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
   }
   
 
-  Plane
+  MCU_Timer
   {
-    Name = "hurricane";
-    Index = 6699;
-    LinkTrId = 6700;
-    XPos = 48654.272;
-    YPos = 94.950;
-    ZPos = 64167.173;
-    XOri = 0.00;
-    YOri = 150.19;
-    ZOri = 9.90;
-    Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
-    Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
-    Country = 102;
+    Index = 6731;
+    Name = "IN-HURRI1";
     Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 1;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 0.6;
-  }
-  
-
-  MCU_TR_Entity
-  {
-    Index = 6700;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [6696];
+    Targets = [6706];
     Objects = [];
-    XPos = 48654.272;
-    YPos = 95.150;
-    ZPos = 64167.173;
+    XPos = 48772.520;
+    YPos = 86.293;
+    ZPos = 63695.212;
     XOri = 0.00;
-    YOri = 0.00;
+    YOri = 359.97;
+    ZOri = 0.00;
+    Time = 15;
+    Random = 100;
+  }
+  
+
+  MCU_TR_MissionBegin
+  {
+    Index = 6732;
+    Name = "Translator Mission Begin";
+    Desc = "";
+    Targets = [6731];
+    Objects = [];
+    XPos = 48815.511;
+    YPos = 94.865;
+    ZPos = 63452.846;
+    XOri = 0.00;
+    YOri = 359.97;
     ZOri = 0.00;
     Enabled = 1;
-    MisObjID = 6699;
-  }
-  
-
-  Plane
-  {
-    Name = "hurricane";
-    Index = 6702;
-    LinkTrId = 6703;
-    XPos = 48663.668;
-    YPos = 94.950;
-    ZPos = 64185.524;
-    XOri = 0.00;
-    YOri = 150.19;
-    ZOri = 9.90;
-    Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
-    Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
-    Country = 102;
-    Desc = "";
-    Skin = "";
-    AILevel = 2;
-    CoopStart = 1;
-    NumberInFormation = 2;
-    Vulnerable = 1;
-    Engageable = 1;
-    LimitAmmo = 1;
-    StartInAir = 2;
-    Callsign = 0;
-    Callnum = 0;
-    Time = 60;
-    DamageReport = 50;
-    DamageThreshold = 1;
-    PayloadId = 0;
-    WMMask = 1;
-    AiRTBDecision = 0;
-    DeleteAfterDeath = 1;
-    Spotter = -1;
-    Fuel = 0.6;
-  }
-  
-
-  MCU_TR_Entity
-  {
-    Index = 6703;
-    Name = "Plane entity";
-    Desc = "";
-    Targets = [6696];
-    Objects = [];
-    XPos = 48663.668;
-    YPos = 95.150;
-    ZPos = 64185.524;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    Enabled = 1;
-    MisObjID = 6702;
-  }
-  
-
-  MCU_CMD_TakeOff
-  {
-    Index = 6705;
-    Name = "command Take off";
-    Desc = "";
-    Targets = [];
-    Objects = [6696];
-    XPos = 48746.998;
-    YPos = 95.002;
-    ZPos = 64105.973;
-    XOri = 0.00;
-    YOri = 357.22;
-    ZOri = 0.00;
-    NoTaxiTakeoff = 1;
   }
   
 
   MCU_Timer
   {
-    Index = 6706;
-    Name = "in-hurri";
+    Index = 6710;
+    Name = "OUT-HURRI1-INAIR";
     Desc = "";
-    Targets = [6705];
+    Targets = [6734,6773];
     Objects = [];
-    XPos = 48717.112;
-    YPos = 95.002;
-    ZPos = 63896.800;
+    XPos = 48775.132;
+    YPos = 93.004;
+    ZPos = 63878.707;
     XOri = 0.00;
-    YOri = 0.00;
+    YOri = 359.97;
     ZOri = 0.00;
-    Time = 0.1;
+    Time = 0;
+    Random = 100;
+  }
+  
+
+  Group
+  {
+    Name = "hurri2";
+    Index = 6736;
+    Desc = "";
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6737;
+      LinkTrId = 6738;
+      XPos = 48669.258;
+      YPos = 93.004;
+      ZPos = 64194.489;
+      XOri = 0.00;
+      YOri = 150.02;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6738;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 48669.258;
+      YPos = 93.204;
+      ZPos = 64194.489;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6737;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 6740;
+        }
+      }
+    }
+    
+
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6741;
+      LinkTrId = 6742;
+      XPos = 48689.150;
+      YPos = 93.004;
+      ZPos = 64171.715;
+      XOri = 0.00;
+      YOri = 150.16;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 1;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6742;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [6738];
+      Objects = [];
+      XPos = 48689.150;
+      YPos = 93.204;
+      ZPos = 64171.715;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6741;
+    }
+    
+
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6744;
+      LinkTrId = 6745;
+      XPos = 48698.554;
+      YPos = 93.004;
+      ZPos = 64190.062;
+      XOri = 0.00;
+      YOri = 150.16;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 2;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6745;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [6738];
+      Objects = [];
+      XPos = 48698.554;
+      YPos = 93.204;
+      ZPos = 64190.062;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6744;
+    }
+    
+
+    MCU_CMD_TakeOff
+    {
+      Index = 6747;
+      Name = "command Take off";
+      Desc = "";
+      Targets = [];
+      Objects = [6738];
+      XPos = 48636.102;
+      YPos = 95.002;
+      ZPos = 63887.394;
+      XOri = 0.00;
+      YOri = 357.19;
+      ZOri = 0.00;
+      NoTaxiTakeoff = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6748;
+      Name = "in-hurri";
+      Desc = "";
+      Targets = [6747];
+      Objects = [];
+      XPos = 48680.451;
+      YPos = 95.002;
+      ZPos = 63871.606;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Time = 0.1;
+      Random = 100;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6740;
+      Name = "in air";
+      Desc = "";
+      Targets = [6750,6751,6752];
+      Objects = [];
+      XPos = 48590.350;
+      YPos = 95.002;
+      ZPos = 63915.197;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+      Time = 2;
+      Random = 100;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6750;
+      Name = "WP 1";
+      Desc = "";
+      Targets = [6754];
+      Objects = [6738];
+      XPos = 44286.170;
+      YPos = 4000.000;
+      ZPos = 67778.170;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6755;
+      Name = "WP-LAND";
+      Desc = "";
+      Targets = [6756];
+      Objects = [6738];
+      XPos = 51310.117;
+      YPos = 1000.000;
+      ZPos = 62070.754;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_CMD_Land
+    {
+      Index = 6756;
+      Name = "command Land";
+      Desc = "";
+      Targets = [];
+      Objects = [6738];
+      XPos = 48684.424;
+      YPos = 95.002;
+      ZPos = 64103.018;
+      XOri = 0.00;
+      YOri = 143.64;
+      ZOri = 0.00;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6758;
+      Name = "WP Attack";
+      Desc = "";
+      Targets = [6759,6760];
+      Objects = [6738];
+      XPos = 34709.418;
+      YPos = 5000.000;
+      ZPos = 81901.427;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6760;
+      Name = "Trigger Timer";
+      Desc = "";
+      Targets = [6762];
+      Objects = [];
+      XPos = 33597.206;
+      YPos = 111.584;
+      ZPos = 81258.270;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Time = 2401;
+      Random = 100;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6762;
+      Name = "WP-Back";
+      Desc = "";
+      Targets = [6755];
+      Objects = [6738];
+      XPos = 33918.037;
+      YPos = 1000.000;
+      ZPos = 58286.692;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_CMD_AttackArea
+    {
+      Index = 6759;
+      Name = "command AttackArea";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 33221.724;
+      YPos = 5000.000;
+      ZPos = 83470.391;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      AttackGround = 0;
+      AttackAir = 1;
+      AttackGTargets = 0;
+      AttackArea = 30000;
+      Time = 2400;
+      Priority = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6751;
+      Name = "2s";
+      Desc = "";
+      Targets = [6766];
+      Objects = [];
+      XPos = 48619.634;
+      YPos = 95.002;
+      ZPos = 63916.123;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+      Time = 2;
+      Random = 100;
+    }
+    
+
+    MCU_CMD_Formation
+    {
+      Index = 6766;
+      Name = "Command Formation";
+      Desc = "";
+      Targets = [];
+      Objects = [6738];
+      XPos = 48619.800;
+      YPos = 95.002;
+      ZPos = 63948.987;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+    FormationType = 1;
+    FormationDensity = 0;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6754;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6769];
+      Objects = [6738];
+      XPos = 41340.023;
+      YPos = 4000.000;
+      ZPos = 62066.091;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6769;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6771];
+      Objects = [6738];
+      XPos = 47833.822;
+      YPos = 4000.000;
+      ZPos = 58150.920;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6771;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6758];
+      Objects = [6738];
+      XPos = 50731.100;
+      YPos = 4000.000;
+      ZPos = 66479.876;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+  }
+  
+
+  MCU_Timer
+  {
+    Index = 6773;
+    Name = "IN-HURRI2";
+    Desc = "";
+    Targets = [6748];
+    Objects = [];
+    XPos = 48724.498;
+    YPos = 86.293;
+    ZPos = 63696.102;
+    XOri = 0.00;
+    YOri = 359.97;
+    ZOri = 0.00;
+    Time = 15;
     Random = 100;
   }
   
 
   MCU_Timer
   {
-    Index = 6698;
-    Name = "in air";
+    Index = 6752;
+    Name = "OUT-HURRI2-INAIR";
     Desc = "";
-    Targets = [6708,6709];
+    Targets = [6813];
     Objects = [];
-    XPos = 48692.662;
-    YPos = 95.002;
-    ZPos = 63932.137;
+    XPos = 48735.434;
+    YPos = 93.004;
+    ZPos = 63880.067;
     XOri = 0.00;
-    YOri = 357.79;
+    YOri = 359.97;
     ZOri = 0.00;
-    Time = 2;
+    Time = 0;
     Random = 100;
   }
   
 
-  MCU_Waypoint
+  Group
   {
-    Index = 6708;
-    Name = "WP 1";
+    Name = "hurri1";
+    Index = 6776;
     Desc = "";
-    Targets = [6727];
-    Objects = [6696];
-    XPos = 44320.917;
-    YPos = 4000.000;
-    ZPos = 67801.209;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
-  }
-  
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6777;
+      LinkTrId = 6778;
+      XPos = 48653.834;
+      YPos = 93.004;
+      ZPos = 64143.476;
+      XOri = 0.00;
+      YOri = 150.02;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 0;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
 
-  MCU_Waypoint
-  {
-    Index = 6713;
-    Name = "WP-LAND";
-    Desc = "";
-    Targets = [6714];
-    Objects = [6696];
-    XPos = 51347.661;
-    YPos = 1000.000;
-    ZPos = 62097.237;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
-  }
-  
+    MCU_TR_Entity
+    {
+      Index = 6778;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 48653.834;
+      YPos = 93.204;
+      ZPos = 64143.476;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6777;
+      OnEvents
+      {
+        OnEvent
+        {
+          Type = 6;
+          TarId = 6780;
+        }
+      }
+    }
+    
 
-  MCU_CMD_Land
-  {
-    Index = 6714;
-    Name = "command Land";
-    Desc = "";
-    Targets = [];
-    Objects = [6696];
-    XPos = 48720.972;
-    YPos = 95.002;
-    ZPos = 64128.214;
-    XOri = 0.00;
-    YOri = 143.67;
-    ZOri = 0.00;
-    Priority = 1;
-  }
-  
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6781;
+      LinkTrId = 6782;
+      XPos = 48673.726;
+      YPos = 93.004;
+      ZPos = 64120.702;
+      XOri = 0.00;
+      YOri = 150.16;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 1;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
 
-  MCU_Waypoint
-  {
-    Index = 6712;
-    Name = "WP Attack";
-    Desc = "";
-    Targets = [6717,6718];
-    Objects = [6696];
-    XPos = 34737.242;
-    YPos = 5000.000;
-    ZPos = 81919.769;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
+    MCU_TR_Entity
+    {
+      Index = 6782;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [6778];
+      Objects = [];
+      XPos = 48673.726;
+      YPos = 93.204;
+      ZPos = 64120.702;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6781;
+    }
+    
+
+    Plane
+    {
+      Name = "hurricane";
+      Index = 6784;
+      LinkTrId = 6785;
+      XPos = 48683.130;
+      YPos = 93.004;
+      ZPos = 64139.049;
+      XOri = 0.00;
+      YOri = 150.16;
+      ZOri = 0.00;
+      Script = "LuaScripts\WorldObjects\Planes\hurricanemkii.txt";
+      Model = "graphics\planes\hurricanemkii\hurricanemkii.mgm";
+      Country = 102;
+      Desc = "";
+      Skin = "hurricanemkii\hurricanemkii_skin_03.dds";
+      AILevel = 2;
+      CoopStart = 1;
+      NumberInFormation = 2;
+      Vulnerable = 1;
+      Engageable = 1;
+      LimitAmmo = 1;
+      StartInAir = 2;
+      Callsign = 0;
+      Callnum = 0;
+      Time = 60;
+      DamageReport = 50;
+      DamageThreshold = 1;
+      PayloadId = 0;
+      WMMask = 1;
+      AiRTBDecision = 0;
+      DeleteAfterDeath = 1;
+      Spotter = -1;
+      Fuel = 0.6;
+    }
+    
+
+    MCU_TR_Entity
+    {
+      Index = 6785;
+      Name = "Plane entity";
+      Desc = "";
+      Targets = [6778];
+      Objects = [];
+      XPos = 48683.130;
+      YPos = 93.204;
+      ZPos = 64139.049;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Enabled = 1;
+      MisObjID = 6784;
+    }
+    
+
+    MCU_CMD_TakeOff
+    {
+      Index = 6787;
+      Name = "command Take off";
+      Desc = "";
+      Targets = [];
+      Objects = [6778];
+      XPos = 48636.102;
+      YPos = 95.002;
+      ZPos = 63938.063;
+      XOri = 0.00;
+      YOri = 357.19;
+      ZOri = 0.00;
+      NoTaxiTakeoff = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6788;
+      Name = "in-hurri";
+      Desc = "";
+      Targets = [6787];
+      Objects = [];
+      XPos = 48680.451;
+      YPos = 95.002;
+      ZPos = 63922.275;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Time = 0.1;
+      Random = 100;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6780;
+      Name = "in air";
+      Desc = "";
+      Targets = [6790,6791,6792];
+      Objects = [];
+      XPos = 48590.350;
+      YPos = 95.002;
+      ZPos = 63965.866;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+      Time = 2;
+      Random = 100;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6790;
+      Name = "WP 1";
+      Desc = "";
+      Targets = [6794];
+      Objects = [6778];
+      XPos = 44286.170;
+      YPos = 4000.000;
+      ZPos = 67828.839;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6795;
+      Name = "WP-LAND";
+      Desc = "";
+      Targets = [6796];
+      Objects = [6778];
+      XPos = 51310.117;
+      YPos = 1000.000;
+      ZPos = 62121.423;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_CMD_Land
+    {
+      Index = 6796;
+      Name = "command Land";
+      Desc = "";
+      Targets = [];
+      Objects = [6778];
+      XPos = 48684.424;
+      YPos = 95.002;
+      ZPos = 64153.687;
+      XOri = 0.00;
+      YOri = 143.64;
+      ZOri = 0.00;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6798;
+      Name = "WP Attack";
+      Desc = "";
+      Targets = [6799,6800];
+      Objects = [6778];
+      XPos = 34709.418;
+      YPos = 5000.000;
+      ZPos = 81952.096;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6800;
+      Name = "Trigger Timer";
+      Desc = "";
+      Targets = [6802];
+      Objects = [];
+      XPos = 33597.206;
+      YPos = 111.584;
+      ZPos = 81308.939;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      Time = 2401;
+      Random = 100;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6802;
+      Name = "WP-Back";
+      Desc = "";
+      Targets = [6795];
+      Objects = [6778];
+      XPos = 33918.037;
+      YPos = 1000.000;
+      ZPos = 58337.361;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_CMD_AttackArea
+    {
+      Index = 6799;
+      Name = "command AttackArea";
+      Desc = "";
+      Targets = [];
+      Objects = [];
+      XPos = 33221.724;
+      YPos = 5000.000;
+      ZPos = 83521.060;
+      XOri = 0.00;
+      YOri = 359.97;
+      ZOri = 0.00;
+      AttackGround = 0;
+      AttackAir = 1;
+      AttackGTargets = 0;
+      AttackArea = 30000;
+      Time = 2400;
+      Priority = 1;
+    }
+    
+
+    MCU_Timer
+    {
+      Index = 6791;
+      Name = "2s";
+      Desc = "";
+      Targets = [6806];
+      Objects = [];
+      XPos = 48619.634;
+      YPos = 95.002;
+      ZPos = 63966.792;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+      Time = 2;
+      Random = 100;
+    }
+    
+
+    MCU_CMD_Formation
+    {
+      Index = 6806;
+      Name = "Command Formation";
+      Desc = "";
+      Targets = [];
+      Objects = [6778];
+      XPos = 48619.800;
+      YPos = 95.002;
+      ZPos = 63999.656;
+      XOri = 0.00;
+      YOri = 357.76;
+      ZOri = 0.00;
+    FormationType = 1;
+    FormationDensity = 0;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6794;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6809];
+      Objects = [6778];
+      XPos = 41340.023;
+      YPos = 4000.000;
+      ZPos = 62116.760;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6809;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6811];
+      Objects = [6778];
+      XPos = 47833.822;
+      YPos = 4000.000;
+      ZPos = 58201.589;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
+    MCU_Waypoint
+    {
+      Index = 6811;
+      Name = "Trigger Waypoint";
+      Desc = "";
+      Targets = [6798];
+      Objects = [6778];
+      XPos = 50731.100;
+      YPos = 4000.000;
+      ZPos = 66530.545;
+      XOri = 0.00;
+      YOri = 359.83;
+      ZOri = 0.00;
+      Area = 20;
+      Speed = 400;
+      Priority = 1;
+    }
+    
+
   }
   
 
   MCU_Timer
   {
-    Index = 6718;
-    Name = "Trigger Timer";
+    Index = 6813;
+    Name = "IN-HURRI3";
     Desc = "";
-    Targets = [6720];
+    Targets = [6788];
     Objects = [];
-    XPos = 33625.346;
-    YPos = 111.584;
-    ZPos = 81276.067;
+    XPos = 48682.556;
+    YPos = 86.293;
+    ZPos = 63700.282;
     XOri = 0.00;
-    YOri = 0.00;
+    YOri = 359.97;
     ZOri = 0.00;
-    Time = 2401;
+    Time = 15;
     Random = 100;
-  }
-  
-
-  MCU_Waypoint
-  {
-    Index = 6720;
-    Name = "WP-Back";
-    Desc = "";
-    Targets = [6713];
-    Objects = [6696];
-    XPos = 33957.438;
-    YPos = 1000.000;
-    ZPos = 58304.649;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
-  }
-  
-
-  MCU_CMD_AttackArea
-  {
-    Index = 6717;
-    Name = "command AttackArea";
-    Desc = "";
-    Targets = [];
-    Objects = [];
-    XPos = 33248.779;
-    YPos = 5000.000;
-    ZPos = 83488.004;
-    XOri = 0.00;
-    YOri = 0.00;
-    ZOri = 0.00;
-    AttackGround = 0;
-    AttackAir = 1;
-    AttackGTargets = 0;
-    AttackArea = 30000;
-    Time = 2400;
-    Priority = 1;
   }
   
 
   MCU_Timer
   {
-    Index = 6709;
-    Name = "2s";
+    Index = 6792;
+    Name = "OUT-HURRI3-INAIR";
     Desc = "";
-    Targets = [6724];
+    Targets = [];
     Objects = [];
-    XPos = 48656.274;
-    YPos = 95.002;
-    ZPos = 63941.287;
+    XPos = 48691.055;
+    YPos = 93.004;
+    ZPos = 63881.919;
     XOri = 0.00;
-    YOri = 357.79;
+    YOri = 359.97;
     ZOri = 0.00;
-    Time = 2;
+    Time = 0;
     Random = 100;
   }
   
 
-  MCU_CMD_Formation
-  {
-    Index = 6724;
-    Name = "Command Formation";
-    Desc = "";
-    Targets = [];
-    Objects = [6696];
-    XPos = 48656.423;
-    YPos = 95.002;
-    ZPos = 63974.151;
-    XOri = 0.00;
-    YOri = 357.79;
-    ZOri = 0.00;
-  FormationType = 1;
-  FormationDensity = 0;
-  }
-  
-
-  MCU_Waypoint
-  {
-    Index = 6727;
-    Name = "Trigger Waypoint";
-    Desc = "";
-    Targets = [6728];
-    Objects = [6696];
-    XPos = 41377.571;
-    YPos = 4000.000;
-    ZPos = 62087.686;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
-  }
-  
-
-  MCU_Waypoint
-  {
-    Index = 6728;
-    Name = "Trigger Waypoint";
-    Desc = "";
-    Targets = [6729];
-    Objects = [6696];
-    XPos = 47873.288;
-    YPos = 4000.000;
-    ZPos = 58175.700;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
-  }
-  
-
-  MCU_Waypoint
-  {
-    Index = 6729;
-    Name = "Trigger Waypoint";
-    Desc = "";
-    Targets = [6712];
-    Objects = [6696];
-    XPos = 50766.483;
-    YPos = 4000.000;
-    ZPos = 66506.075;
-    XOri = 0.00;
-    YOri = 359.86;
-    ZOri = 0.00;
-    Area = 20;
-    Speed = 400;
-    Priority = 1;
-  }
-  
-
-}
-
-
-
-MCU_Timer
-{
-  Index = 6726;
-  Name = "IN-HURRI1";
-  Desc = "";
-  Targets = [6706];
-  Objects = [];
-  XPos = 48676.058;
-  YPos = 86.293;
-  ZPos = 63510.357;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Time = 15;
-  Random = 100;
-}
-
-
-
-MCU_TR_MissionBegin
-{
-  Index = 6730;
-  Name = "Translator Mission Begin";
-  Desc = "";
-  Targets = [6726];
-  Objects = [];
-  XPos = 48819.128;
-  YPos = 94.865;
-  ZPos = 63456.041;
-  XOri = 0.00;
-  YOri = 0.00;
-  ZOri = 0.00;
-  Enabled = 1;
 }
 
 
