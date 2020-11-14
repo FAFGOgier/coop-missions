@@ -137734,7 +137734,7 @@ Group
   Desc = "";
   Group
   {
-    Name = "Spits";
+    Name = "Spits1";
     Index = 6577;
     Desc = "";
     Plane
@@ -138026,7 +138026,7 @@ Group
       Targets = [6600,6601];
       Objects = [6579];
       XPos = 31250.397;
-      YPos = 6000.000;
+      YPos = 6500.000;
       ZPos = 84528.468;
       XOri = 0.00;
       YOri = 359.86;
@@ -138082,7 +138082,7 @@ Group
       Targets = [];
       Objects = [];
       XPos = 30578.478;
-      YPos = 6000.000;
+      YPos = 6500.000;
       ZPos = 85848.643;
       XOri = 0.00;
       YOri = 0.00;
@@ -138316,7 +138316,7 @@ Group
 
   Group
   {
-    Name = "Spits";
+    Name = "Spits2";
     Index = 6622;
     Desc = "";
     Plane
@@ -138608,7 +138608,7 @@ Group
       Targets = [6645,6646];
       Objects = [6624];
       XPos = 30695.554;
-      YPos = 6000.000;
+      YPos = 6500.000;
       ZPos = 82807.459;
       XOri = 0.00;
       YOri = 359.86;
@@ -138664,7 +138664,7 @@ Group
       Targets = [];
       Objects = [];
       XPos = 30337.954;
-      YPos = 6000.000;
+      YPos = 6500.000;
       ZPos = 83975.411;
       XOri = 0.00;
       YOri = 0.00;
@@ -138737,7 +138737,7 @@ Group
 
   Group
   {
-    Name = "Spits";
+    Name = "Spits3";
     Index = 6655;
     Desc = "";
     Plane
@@ -139029,7 +139029,7 @@ Group
       Targets = [6677,6678];
       Objects = [6657];
       XPos = 31197.320;
-      YPos = 6000.000;
+      YPos = 6500.000;
       ZPos = 87349.263;
       XOri = 0.00;
       YOri = 359.86;
@@ -139085,7 +139085,7 @@ Group
       Targets = [];
       Objects = [];
       XPos = 30533.283;
-      YPos = 6000.000;
+      YPos = 6500.000;
       ZPos = 88753.222;
       XOri = 0.00;
       YOri = 0.00;
@@ -139531,7 +139531,7 @@ Group
       Targets = [6716,6717];
       Objects = [6695];
       XPos = 34653.628;
-      YPos = 5000.000;
+      YPos = 5500.000;
       ZPos = 81948.499;
       XOri = 0.00;
       YOri = 359.83;
@@ -139587,7 +139587,7 @@ Group
       Targets = [];
       Objects = [];
       XPos = 33165.934;
-      YPos = 5000.000;
+      YPos = 5500.000;
       ZPos = 83517.463;
       XOri = 0.00;
       YOri = 359.97;
@@ -140259,7 +140259,7 @@ Group
       Targets = [6767,6768];
       Objects = [6746];
       XPos = 34709.418;
-      YPos = 5000.000;
+      YPos = 5500.000;
       ZPos = 81901.427;
       XOri = 0.00;
       YOri = 359.83;
@@ -140315,7 +140315,7 @@ Group
       Targets = [];
       Objects = [];
       XPos = 33221.724;
-      YPos = 5000.000;
+      YPos = 5500.000;
       ZPos = 83470.391;
       XOri = 0.00;
       YOri = 359.97;
@@ -140755,7 +140755,7 @@ Group
       Targets = [6807,6808];
       Objects = [6786];
       XPos = 34709.418;
-      YPos = 5000.000;
+      YPos = 5500.000;
       ZPos = 81952.096;
       XOri = 0.00;
       YOri = 359.83;
@@ -140811,7 +140811,7 @@ Group
       Targets = [];
       Objects = [];
       XPos = 33221.724;
-      YPos = 5000.000;
+      YPos = 5500.000;
       ZPos = 83521.060;
       XOri = 0.00;
       YOri = 359.97;
