@@ -133185,7 +133185,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 0;
     Vulnerable = 1;
@@ -133259,7 +133259,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 1;
     Vulnerable = 1;
@@ -133314,7 +133314,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 2;
     Vulnerable = 1;
@@ -133369,7 +133369,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 3;
     Vulnerable = 1;
@@ -133424,7 +133424,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 4;
     Vulnerable = 1;
@@ -133692,7 +133692,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 0;
     Vulnerable = 1;
@@ -133766,7 +133766,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 1;
     Vulnerable = 1;
@@ -133821,7 +133821,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 2;
     Vulnerable = 1;
@@ -133876,7 +133876,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 3;
     Vulnerable = 1;
@@ -133931,7 +133931,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 4;
     Vulnerable = 1;
@@ -134218,7 +134218,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 0;
     Vulnerable = 1;
@@ -134292,7 +134292,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 1;
     Vulnerable = 1;
@@ -134347,7 +134347,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 2;
     Vulnerable = 1;
@@ -134402,7 +134402,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 3;
     Vulnerable = 1;
@@ -134457,7 +134457,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 4;
     Vulnerable = 1;
@@ -134744,7 +134744,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 0;
     Vulnerable = 1;
@@ -134818,7 +134818,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 1;
     Vulnerable = 1;
@@ -134873,7 +134873,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 2;
     Vulnerable = 1;
@@ -134928,7 +134928,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 3;
     Vulnerable = 1;
@@ -134983,7 +134983,7 @@ Group
     Country = 201;
     Desc = "";
     Skin = "";
-    AILevel = 3;
+    AILevel = 2;
     CoopStart = 0;
     NumberInFormation = 4;
     Vulnerable = 1;
@@ -141028,7 +141028,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -141091,7 +141091,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -141146,7 +141146,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -141756,7 +141756,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -141819,7 +141819,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -141874,7 +141874,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -142252,7 +142252,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -142315,7 +142315,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
@@ -142370,7 +142370,7 @@ Group
       AiRTBDecision = 1;
       DeleteAfterDeath = 1;
       Spotter = -1;
-      Fuel = 0.6;
+      Fuel = 1;
     }
     
 
