@@ -2,6 +2,13 @@
 
 Those are simple non historical coop missions, made for a relatively small group of players (from 4 to 10, let's say).
 
+Install in the folder:
+~~~
+IL-2 Sturmovik Great Battles\data\Multiplayer\Cooperative\OgierCoop
+~~~
+
+(Basically, unzip the archive in your `\data\Multiplayer\Cooperative\` folder.)
+
 Available missions are :
 
 - Anvers  (Allies): the beginning of a small campaign in the Low Countries ; fights between Antwerp and St. Niklaus. One night bombing mission and one convoy attack.
@@ -17,6 +24,14 @@ Available missions are :
 
 # Coops d'Ogier
 
+Installez les missions dans le dossier:
+~~~
+IL-2 Sturmovik Great Battles\data\Multiplayer\Cooperative\OgierCoop
+~~~
+
+(en gros, décompressez l'archive dans le dossier `\data\Multiplayer\Cooperative\`.)
+
+Les missions disponibles :
 
 - Anvers (Alliés) : début d'une petite campagne dans les Pays-Bas ; combats entre Anvers et Saint-Niklaus. Une mission de bombardement de nuit et une attaque de convoi.
 - attaque de convois: sur la carte Kuban, attaque d'un convoi allemand par des il2 protégés par des Yak 1 ; d'autres versions sont disponibles avec des avions différents.
